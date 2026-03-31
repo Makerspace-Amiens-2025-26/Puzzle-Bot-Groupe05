@@ -133,19 +133,10 @@ void homing(){
   disableMotors();
 }
 
-void gotoX(long X_coord){
-  enableMotors();
-  stepperX.moveTo(-X_coord); // negative if inverted
-  while(stepperX.distanceToGo() != 0){
-    stepperX.run();
-  }
-  disableMotors();
-}
-
 void moveTo(long X_coord, long Y_coord){
   enableMotors();
-  stepperX.moveTo(-X_coord);
-  stepperY.moveTo(Y_coord);
+  stepperX.moveTo(-X_coord); // negative value because the axis is inverted
+  stepperY.moveTo(-Y_coord);
   while(stepperX.distanceToGo() != 0 || stepperY.distanceToGo() != 0){
     stepperX.run();
     stepperY.run();
