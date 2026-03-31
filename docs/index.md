@@ -18,9 +18,11 @@ Bienvenue dans la documentation de notre projet Puzzle Bot. Vous trouverez sur c
 >Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
 
 
-# À propos du Projet
+## À propos du Projet
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+Inspiré des robots réalisés par [Mark Rober](https://www.youtube.com/watch?v=Sqr-PdVYhY4) et [Stuff Made Here](https://www.youtube.com/watch?v=WsPHBD5NsS0), ce projet vise à la création d'un robot autonome qui a pour but (comme son nom l'indique) la résolution de puzzle. 
+
+Ce projet fait partie de notre formation d'ingénieur en énergie et numérique à Unilasalle Amiens. Cependant il est accessible à n'importe qui de par son côté ludique.
 
 
 ## Poster
