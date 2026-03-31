@@ -1,4 +1,5 @@
 #include "AccelStepper.h"
+#include "Servo.h"
 
 // Define stepper motor connections and interface type
 #define DIR_PIN_X   5
@@ -7,11 +8,13 @@
 #define STEP_PIN_Y  3
 #define ENA_PIN     8
 
+#define SERVO_PIN   7
+
 #define X_LIMIT_PIN 9
 #define Y_LIMIT_PIN 10
 
 #define ELECTRO_PIN 11 // for now it doesn't work
-#define PUMP_PIN 13
+#define PUMP_PIN    13
 
 float maxSpeed = 1000.0;
 float maxAccel = 500.0;
@@ -22,11 +25,14 @@ float homingSpeed = 80.0;
 AccelStepper stepperX(AccelStepper::DRIVER, STEP_PIN_X, DIR_PIN_X);
 AccelStepper stepperY(AccelStepper::DRIVER, STEP_PIN_Y, DIR_PIN_Y);
 
+Servo myservo;
+
 // Function prototypes
 void enableMotors();
 void disableMotors();
 void enablePump();
 void disablePump();
+void setServoAngle(int angle);
 void setSpeedAccel(float speed, float accel);
 bool XlimitIsPressed();
 bool YlimitIsPressed();
@@ -37,7 +43,7 @@ void gotoX(long X_coord);
 
 void setup() {
   Serial.begin(9600);
-
+  myservo.attach(7);
   pinMode(ENA_PIN, OUTPUT);
   pinMode(PUMP_PIN, OUTPUT);
   disablePump();
@@ -76,6 +82,11 @@ void enablePump(){
 void disablePump(){
   digitalWrite(PUMP_PIN, HIGH);
   Serial.println("Pump Disabled");
+}
+
+void setServoAngle(int angle)
+{
+  myservo.write(angle);
 }
 
 void setSpeedAccel(float speed, float accel){
