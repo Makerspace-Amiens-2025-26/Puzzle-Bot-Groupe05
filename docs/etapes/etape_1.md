@@ -11,15 +11,23 @@ Cette section décrit la première étape du processus de fabrication : la prép
 
 ## Liste des Matériaux
 
-- Matériau A
-- Matériau B
-- Outils nécessaires
+- plateau
+- profilés
+- carte Arduino Uno
+- Shield CNC
+- servomoteur
+- moteurs pas-à-pas
+- kit préhenseur pneumatique (pompe + electrovanne)
+- interrupteurs fin de course
+- imprimantes 3d pour fabriquer des socles pour les autres matériaux
+- courroies
+- outils divers (pinces, tournevis, ...)
 
 ## Procédure de Préparation
 
-1. **Nettoyage** : Nettoyez tous les matériaux pour enlever la poussière et les débris.
-2. **Découpe** : Découpez les matériaux A et B selon les dimensions spécifiées.
-3. **Prétraitement** : Appliquez un traitement de surface si nécessaire.
+1. **Recherche du fonctionnement** : Nous recherchons les différentes informations nécessairement au bon fonctionnement des pièces (tension, puissance, branchement).
+2. **Découpe** : Découpez des profilés afin de s'assurer qu'ils aient la bonne taille.
+3. **Rédaction des codes** : Pour le fonctionnement des pièces qui en ont besoin (comme les moteurs).
 
 ## Conseils de Sécurité
 
