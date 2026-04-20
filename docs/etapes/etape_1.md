@@ -14,6 +14,7 @@ Cette section décrit la première étape du processus de fabrication : la prép
 - plateau
 - profilés
 - carte Arduino Uno
+  ![carte arduino UNO](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Carte%20Uno.jpeg)
 - Shield CNC
 - servomoteur
 - moteurs pas-à-pas
