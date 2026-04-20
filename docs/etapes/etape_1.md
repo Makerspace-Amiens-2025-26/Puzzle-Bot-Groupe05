@@ -12,17 +12,33 @@ Cette section décrit la première étape du processus de fabrication : la prép
 ## Liste des Matériaux
 
 - plateau
+  ![TODO](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Servomoteur.jpeg)
 - profilés
+  ![TODO](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Servomoteur.jpeg)
 - carte Arduino Uno
   ![carte arduino UNO](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Carte%20Uno.jpeg)
 - Shield CNC
+  ![shield CNC](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/CNC%20shield.jpeg)
 - servomoteur
+  ![servomoteur](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Servomoteur.jpeg)
 - moteurs pas-à-pas
+  ![TODO](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Servomoteur.jpeg)
+- driver pour les moteurs pas-à-pas
+  ![TODO](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Servomoteur.jpeg)
+- MOSFET
+  ![mosfet](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Mosfet.jpeg)
 - kit préhenseur pneumatique (pompe + electrovanne)
+  ![kitpréhenseur](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Ventouse.jpeg)
 - interrupteurs fin de course
+  ![TODO](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Servomoteur.jpeg)
+- interrupteurs d'urgence
+  ![urgence](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Bouton%20d'arret%20d'urgence.jpeg)
 - imprimantes 3d pour fabriquer des socles pour les autres matériaux
+  ![TODO](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Servomoteur.jpeg)
 - courroies
+  ![TODO](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Servomoteur.jpeg)
 - outils divers (pinces, tournevis, ...)
+  ![TODO](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Servomoteur.jpeg)
 
 ## Procédure de Préparation
 
