@@ -13,9 +13,10 @@ Cette section décrit la première étape du processus de fabrication : la prép
 
 - plateau
   
-  <img src="https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Servomoteur.jpeg"  width="600" height="400">
+  
 - profilés
 
+  <img src="https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/profile.PNG"  width="600" height="400">
 - carte Arduino Uno
   
   <img src="https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Carte%20Uno.jpeg"  width="600" height="400">
@@ -29,6 +30,7 @@ Cette section décrit la première étape du processus de fabrication : la prép
 
 - driver pour les moteurs pas-à-pas
 
+  <img src="https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Driver.PNG"  width="600" height="400">
 - MOSFET
 
   <img src="https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Mosfet.jpeg"  width="600" height="400">
