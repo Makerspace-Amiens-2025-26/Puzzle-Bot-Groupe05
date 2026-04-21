@@ -62,4 +62,4 @@ Cette section décrit la première étape du processus de fabrication : la prép
 
 ---
 
-Une fois cette étape terminée, passez à l'[Assemblage](/assemblage).
+Une fois cette étape terminée, passez à l'[Assemblage](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/etapes/etape_2.md).
