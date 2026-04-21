@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Premiers pas sur le template
-nav_order: 2
+nav_order: 7
 has_children: true
 ---
 # Introduction aux Sites Jekyll
