@@ -9,8 +9,8 @@ nav_order: 4
 - plateau
   
 - profilés
-![Poster projet](images/profile.PNG)
-  <img src="https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/profile.PNG"  width="400" height="400">
+  
+  <img src="https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/profile.PNG"  width="400" height="400"></img>
 - carte Arduino Uno
   
   <img src="https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/images/Carte%20Uno.jpeg"  width="400" height="400">
