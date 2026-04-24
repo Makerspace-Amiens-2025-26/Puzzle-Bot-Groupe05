@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Préparation des Matériaux
-parent: Notre équipe
-nav_order: 1
+title: Branchement
+parent: Notre travail
+nav_order: 2
 ---
