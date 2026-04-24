@@ -1,15 +1,10 @@
 ---
 layout: default
-title: Préparation des Matériaux
-parent: Etapes de fabrication
-nav_order: 1
+title: Liste des Matériaux
+nav_order: 3
 ---
 
-# Préparation des Matériaux
-
-Cette section décrit la première étape du processus de fabrication : la préparation des matériaux.
-
-## Liste des Matériaux
+# Liste des Matériaux
 
 - plateau
   
@@ -49,17 +44,3 @@ Cette section décrit la première étape du processus de fabrication : la prép
 - outils divers (pinces, tournevis, ...)
 
 
-## Procédure de Préparation
-
-1. **Recherche du fonctionnement** : Nous recherchons les différentes informations nécessairement au bon fonctionnement des pièces (tension, puissance, branchement).
-2. **Ajustement des pièces** : En fonction de la pièce, nous découpons, attachons ou imprimons d'autre composant pour que la pièce puisse être intégré à notre robot.
-3. **Rédaction des codes** : Pour le fonctionnement des pièces qui en ont besoin (comme les moteurs).
-
-## Conseils de Sécurité
-
-- Portez toujours l'équipement de protection individuelle.
-- Suivez les instructions de sécurité des outils utilisés.
-
----
-
-Une fois cette étape terminée, passez à l'[Assemblage](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05/blob/main/docs/etapes/etape_2.md).
