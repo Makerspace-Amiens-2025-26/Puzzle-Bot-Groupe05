@@ -23,7 +23,8 @@ Trinome : Electronique
 
 Membres: JEANNY , Carla-Serena , Ariane 
 
-Dans ce trinome , l'enjeu était de faire le lien entre le code et les mouvements mecaniques du robot. Leur objectif est de : 
-* configurer physiqueemnt la carte  pour piloter les moteurs pas à pas (Steppers).
-* Ils sont aussi responsable du circuit de commande de la pompe à vide ( comme l'arduino ne peut pas alimenter directement la pompe, il utilise le composant 'Mosfet.jpeg' pour commute la puissance nécessaire).
-* Ils sont responsable  de l'installation et du fonctionnement du bouton d'arret d'urgence.jpeg .
+Dans ce trinome , l'enjeu était de faire le lien entre le code et les mouvements mecaniques du robot. Leur objectif : 
+* Configurer physiqueemnt la carte  pour piloter les moteurs pas à pas (Steppers).
+* Ils sont responsable du circuit de commande de la pompe à vide ( comme l'arduino ne peut pas alimenter directement la pompe, il utilise le composant 'Mosfet.jpeg' pour commute la puissance nécessaire).
+* Ils sont responsable  de l'installation et du fonctionnement du bouton d'arret d'urgence.jpeg.
+* 
