@@ -4,7 +4,8 @@ title: Branchement
 parent: Notre travail
 nav_order: 2
 ---
-
+<img src="../images/CNC%20Shield%20pinout.jpeg" width="600" height="600">
+<img src="../images/arduino-uno-pinout.webp" width="600" height="600">
 
 -Branchement des 3 moteurs pas à pas:
 
