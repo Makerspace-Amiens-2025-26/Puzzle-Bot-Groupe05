@@ -21,6 +21,6 @@ Chaque module contrôle un moteur pas à pas (X,Y,A) sur la CNC Shield. Sachant 
 
 L'ordre des fils dépend du moteur, mais:
 * Si le moteur vibre sans tourner alors les fils sont mal placés,
-* Si le sens est inversé il faudra inverser une paire,
-* L'utilisation des jumpers nous permettent de dupliquer le signal d'un moteur pas à pas situé sur l'axe X sur l'axe A. 
+* Si le sens est inversé il faudra inverser les fils des moteurs,
+* L'utilisation des jumpers nous permettent de dupliquer le signal du moteur pas à pas situé sur l'axe X vers l'axe A. 
 
