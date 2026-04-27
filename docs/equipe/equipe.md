@@ -22,4 +22,4 @@ Ce binome est responsable de la partie physique de la machine. Leur objectif est
 Trinome : Electronique 
 
 Membres: JEANNY , Carla-Serena , Ariane 
-Dans ce trinome , l'enjeu était de transformer les ordres du code en mouvement reels. En regarda
+Dans ce trinome , l'enjeu était de faire est 
