@@ -31,6 +31,7 @@ L'ordre des fils dépend du moteur, mais:
 <img src="../images/Branchement_des_servomoteurs.jpeg" width="400" height="400">
 
 Explcations:
+
 Chaque servomoteur possède 3 fils dont :
 *La couleur jaune est reliée au 5V
 *La couleur marron est reliée au GND
