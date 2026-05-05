@@ -21,7 +21,7 @@ Ce binome est responsable de la partie physique de la machine. Leur objectif est
 
 Trinôme : Electronique 
 
-Membres: JEANNY , Carla-Serena , Ariane 
+Membres:  Jeanny , Carla-Serena , Ariane 
 
 Ce trinôme s'occupe de faire le lien entre l'ordinateur et les mouvements du robot. Concrètement, ils preparent la carte électronique pour faire fonctionner les moteurs avec présicion et installe un composant (le MOSFET) pour que l'Arduino puisse allumer la pompe de la ventouse. Il assure aussi la sécurité du projet en installant le bouton d'arrêt d'urgence et veille à ce que la caméra reste allumée afin de voir les pièces du puzzle.
 
