@@ -7,7 +7,7 @@ nav_order: 2
 <img src="../images/CNC%20Shield%20pinout.jpeg" width="600" height="600">
 <img src="../images/arduino-uno-pinout.webp" width="600" height="600">
 
-  - Branchement des 3 moteurs pas à pas:
+- Branchement des 3 moteurs pas à pas:
 
 <img src="../images/Branchement_stepper.jpeg" width="400" height="400">
 
@@ -23,7 +23,8 @@ Chaque module contrôle un moteur pas à pas (X,Y,A) sur la CNC Shield. Sachant 
 L'ordre des fils dépend du moteur, mais:
 * Si le moteur vibre sans tourner alors les fils sont mal placés,
 * Si le sens est inversé il faudra inverser les fils des moteurs,
-* L'utilisation des jumpers nous permettent de dupliquer le signal du moteur pas à pas situé sur l'axe X vers l'axe A. 
+* L'utilisation des jumpers nous permettent de dupliquer le signal du moteur pas à pas situé sur l'axe X vers l'axe A.
+  
 
 
  - Branchement des interrupteurs fin course 
