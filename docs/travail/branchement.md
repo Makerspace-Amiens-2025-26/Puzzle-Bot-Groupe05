@@ -35,7 +35,7 @@ Un interrupteur est constitué de trois fils de couleurs distinctes : vert, roug
 
 L’interrupteur dédié à l’axe X est connecté à la broche X+ ainsi qu’à la masse (GND). De même, l’interrupteur positionné sur l’axe Y est relié à la broche Y+ et à la masse (GND).
 
-Il est important de noter que seuls les fils rouge et noir sont utilisés pour le branchement : le fil rouge est connecté à l’alimentation (Vcc) tandis que le fil noir est relié à la masse (GND). Le fil vert n’est donc pas utilisé dans cette configuration.
+Il est important de noter que seuls les fils rouge et noir sont utilisés pour le branchement : le fil rouge est connecté à la broche (X+ ou Y+) tandis que le fil noir est relié à la masse (GND). Le fil vert n’est donc pas utilisé dans cette configuration.
 
 
   - Branchement des servomoteurs :
@@ -45,7 +45,7 @@ Il est important de noter que seuls les fils rouge et noir sont utilisés pour l
 Explications:
 
 Chaque servomoteur possède 3 fils dont :
-* La couleur jaune est reliée au 5V
+* La couleur jaune est reliée sur une pin de la carte Arduino
 * La couleur marron est reliée au GND
 * La couleur rouge est reliée au Vcc
 
