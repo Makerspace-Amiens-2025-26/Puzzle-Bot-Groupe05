@@ -30,4 +30,4 @@ Binôme 2 : Programmation
 
 Membres: Shaza & Aymeric
 
-Ce binôme développe l'intelligence du robot en combinant la vision par ordinateur et le contrôle des mouvements. Ils se chargent de coder les instructions envoyées à l'Arduino pour coordonner précisément l'activation de la ventouse et le déplacement des moteurs
+Ce binôme développe l'intelligence du robot en combinant la vision par ordinateur et le contrôle des mouvements. Ils se chargent de coder les instructions envoyées à l'Arduino pour coordonner précisément l'activation de la ventouse et le déplacement des moteurs, permettant ainsi au robot d'assembler le puzzle de manière autonome.
