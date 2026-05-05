@@ -8,31 +8,34 @@
 #define STEP_PIN_Y  3
 #define ENA_PIN     8
 
-#define SERVO_PIN   7
+#define SERVO_UP_DOWN_PIN   11
+#define SERVO_ROTA_PIN      12
 
 #define X_LIMIT_PIN 9
 #define Y_LIMIT_PIN 10
 
-#define ELECTRO_PIN 11 // for now it doesn't work
+//#define ELECTRO_PIN _ // for now it doesn't work
 #define PUMP_PIN    13
 
-float maxSpeed = 1000.0;
-float maxAccel = 500.0;
+float maxSpeed = 15000.0;
+float maxAccel = 7500.0;
 
-float homingSpeed = 80.0;
+float homingSpeed = 1000.0;
 
 // Create stepper instances
 AccelStepper stepperX(AccelStepper::DRIVER, STEP_PIN_X, DIR_PIN_X);
 AccelStepper stepperY(AccelStepper::DRIVER, STEP_PIN_Y, DIR_PIN_Y);
 
-Servo myservo;
+Servo servo_up_down;
+Servo servo_rota;
 
 // Function prototypes
 void enableMotors();
 void disableMotors();
 void enablePump();
 void disablePump();
-void setServoAngle(int angle);
+void goUp();
+void goDown();
 void setSpeedAccel(float speed, float accel);
 bool XlimitIsPressed();
 bool YlimitIsPressed();
@@ -43,7 +46,8 @@ void gotoX(long X_coord);
 
 void setup() {
   Serial.begin(9600);
-  myservo.attach(7);
+  servo_up_down.attach(SERVO_UP_DOWN_PIN);
+  servo_rota.attach(SERVO_ROTA_PIN);
   pinMode(ENA_PIN, OUTPUT);
   pinMode(PUMP_PIN, OUTPUT);
   disablePump();
@@ -53,13 +57,20 @@ void setup() {
 
   disableMotors();
   Serial.println("Puzzle Bot");
-  
+  goUp();
   setSpeedAccel(maxSpeed, maxAccel);
   homing();
 }
 
 void loop() {
-  // Your main code here
+  servo_up_down.write(0);
+  servo_rota.write(90);
+  digitalWrite(PUMP_PIN, LOW);
+  delay(3000);
+  servo_up_down.write(33);
+  servo_rota.write(00);
+  digitalWrite(PUMP_PIN, HIGH);
+  delay(3000);
 }
 
 //------------------- Functions --------------------
@@ -84,9 +95,14 @@ void disablePump(){
   Serial.println("Pump Disabled");
 }
 
-void setServoAngle(int angle)
+void goUp()
 {
-  myservo.write(angle);
+  servo_up_down.write(0);
+}
+
+void goDown()
+{
+  servo_up_down.write(33);
 }
 
 void setSpeedAccel(float speed, float accel){
@@ -128,7 +144,7 @@ void homing(){
   }
   stepperX.stop();
   stepperX.setCurrentPosition(0);
-  stepperX.runToNewPosition(-750);  // move away from switch
+  stepperX.runToNewPosition(-14000);  // move away from switch
   Serial.println("Homing X OK");
 
   // Homing Y
@@ -138,7 +154,7 @@ void homing(){
   }
   stepperY.stop();
   stepperY.setCurrentPosition(0);
-  stepperY.runToNewPosition(-500);
+  stepperY.runToNewPosition(-7000);
   Serial.println("Homing Y OK");
 
   disableMotors();
