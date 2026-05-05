@@ -7,7 +7,7 @@ nav_order: 2
 <img src="../images/CNC%20Shield%20pinout.jpeg" width="600" height="600">
 <img src="../images/arduino-uno-pinout.webp" width="600" height="600">
 
--Branchement des 3 moteurs pas à pas:
+- Branchement des 3 moteurs pas à pas:
 
 <img src="../images/Branchement_stepper.jpeg" width="400" height="400">
 
@@ -26,7 +26,7 @@ L'ordre des fils dépend du moteur, mais:
 * L'utilisation des jumpers nous permettent de dupliquer le signal du moteur pas à pas situé sur l'axe X vers l'axe A. 
 
 
--Branchement des interrupteurs fin course 
+- Branchement des interrupteurs fin course 
 
 <img src="../images/Branchement_des%20interrupteurs_fin_course.jpeg" width="400" height="400">
 
@@ -37,7 +37,7 @@ L’interrupteur dédié à l’axe X est connecté à la broche X+ ainsi qu’�
 Il est important de noter que seuls les fils rouge et noir sont utilisés pour le branchement : le fil rouge est connecté à l’alimentation (Vcc) tandis que le fil noir est relié à la masse (GND). Le fil vert n’est donc pas utilisé dans cette configuration.
 
 
--Branchement des servomoteurs :
+- Branchement des servomoteurs :
 
 <img src="../images/Branchement_des_servomoteurs.jpeg" width="400" height="400">
 
