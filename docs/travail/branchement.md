@@ -25,3 +25,13 @@ L'ordre des fils dépend du moteur, mais:
 * Si le sens est inversé il faudra inverser les fils des moteurs,
 * L'utilisation des jumpers nous permettent de dupliquer le signal du moteur pas à pas situé sur l'axe X vers l'axe A. 
 
+
+-Branchement des interrupteurs fin de course:
+
+<img src="../images/Branchement_des_servomoteurs.jpeg" width="400" height="400">
+
+Explcations:
+Chaque servomoteur possède 3 fils dont :
+*La couleur jaune est reliée au 5V
+*La couleur marron est reliée au GND
+* La couleur rouge est reliée au Vcc
