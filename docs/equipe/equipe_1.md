@@ -20,7 +20,7 @@ https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b
 
 Cette pièce est destinée à fixer le système de ventouse au bras mobile
 
-** Boitier de commande**
+** Boitier de commande**:
 https://cad.onshape.com/documents/1f8d508aa42a1f24d486347e/v/eee567b5fe93adee48d8bb34/e/0dc7f380b15cdbf8f560be33?showReturnToWorkspaceLink=true
 
 Cette pièce a été dessinée pour contenir et protéger la carte eletronique de notre robot  
