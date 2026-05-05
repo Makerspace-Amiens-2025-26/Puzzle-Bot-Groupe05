@@ -26,6 +26,11 @@ L'ordre des fils dépend du moteur, mais:
 * L'utilisation des jumpers nous permettent de dupliquer le signal du moteur pas à pas situé sur l'axe X vers l'axe A. 
 
 
+-Brranchement des interrupteurs fin course 
+
+<img src="../images/Branchement_des%20interrupteurs_fin_course.jpeg" width="400" height="400">
+
+
 -Branchement des servomoteurs :
 
 <img src="../images/Branchement_des_servomoteurs.jpeg" width="400" height="400">
