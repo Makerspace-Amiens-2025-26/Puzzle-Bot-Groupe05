@@ -15,7 +15,7 @@ Binôme 1 : Conception
 
 Membres: LOUIS & ENRIC
   
-  ###  Son apport dans le projet 
+ 
 Ce binome est responsable de la partie physique de la machine. Leur objectif est de s'assurer que la machine soit stable et capable de mannipuler les pieces du puzzle sans les abimer. Pour ce faire, ils utilisent le logiciel OnShape pour dessiner toutes les pieces et les assembler de manière à obtenir une version virtuelle de notre machine physique. Grâce à cela, ils peuvent faire une impression 3D ou une decoupe laser des pieces pour ainsi l'ajouter à la partie physique de notre machine.
 
 
