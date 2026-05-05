@@ -11,21 +11,23 @@ Dans cette section vous trouverez le détail des membres de notre équipe  organ
 
 ## Organisation 
 
-Binome 1 : Conseption
+Binôme 1 : Conception
 
 Membres: LOUIS & ENRIC
   
   ###  Son apport dans le projet 
-Ce binome est responsable de la partie physique de la machine. Leur objectif est de s'assurer que la machine est stable et capable  de mannipuler les pieces du puzzle sans les abimer. Pour  le faire  ils utilisent le logiciel OnShape pour dessiner toutes les pieces et les assembler de manière à obtenir une version virtuelle de notre machine physique. Grace à cela , ils pouront faire une impression 3D des pieces ou une decoupe laser pour ainsi donner la version physique de la machine.
+Ce binome est responsable de la partie physique de la machine. Leur objectif est de s'assurer que la machine soit stable et capable de mannipuler les pieces du puzzle sans les abimer. Pour ce faire, ils utilisent le logiciel OnShape pour dessiner toutes les pieces et les assembler de manière à obtenir une version virtuelle de notre machine physique. Grâce à cela, ils peuvent faire une impression 3D ou une decoupe laser des pieces pour ainsi l'ajouter à la partie physique de notre machine.
 
 
-Trinome : Electronique 
+Trinôme : Electronique 
 
 Membres: JEANNY , Carla-Serena , Ariane 
 
-Ce trinome s'occupe de faire le lien entre l'ordinateur et les mouvenemens du robot. Concretement, ils preparent la carte électronique pour faire tourner les moteurs avec présicion et installe un composant (le MOSFET) pour que l'Arduino puisse allumer la pompe de la ventouse. Ils assurent aussi la sécurité du projet en installant le bouton d'aret d'urgence et veillent à ce que la caméra reste allumée afin de voir les pièces du puzzle.
+Ce trinôme s'occupe de faire le lien entre l'ordinateur et les mouvements du robot. Concrètement, ils preparent la carte électronique pour faire fonctionner les moteurs avec présicion et installe un composant (le MOSFET) pour que l'Arduino puisse allumer la pompe de la ventouse. Il assure aussi la sécurité du projet en installant le bouton d'arrêt d'urgence et veille à ce que la caméra reste allumée afin de voir les pièces du puzzle.
 
 
-Binome 2  Programmation 
+Binôme 2 : Programmation 
 
-Ce binome dévelope l'intelligence du robot en combinanr la vision par ordinateur et le controle des mouvements. Ils se chargent de coder les instructions envoyées à l'Arduino pour coordonner précisément l'activation de la ventouse et le déplacement des moteurs
+Membres: Shaza & Aymeric
+
+Ce binôme développe l'intelligence du robot en combinant la vision par ordinateur et le contrôle des mouvements. Ils se chargent de coder les instructions envoyées à l'Arduino pour coordonner précisément l'activation de la ventouse et le déplacement des moteurs
