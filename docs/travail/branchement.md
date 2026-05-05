@@ -47,3 +47,7 @@ Chaque servomoteur possède 3 fils dont :
 * La couleur jaune est reliée au 5V
 * La couleur marron est reliée au GND
 * La couleur rouge est reliée au Vcc
+
+
+  - Branchement de l'electrovanne
+    
