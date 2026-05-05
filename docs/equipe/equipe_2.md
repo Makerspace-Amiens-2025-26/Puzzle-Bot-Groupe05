@@ -7,7 +7,7 @@ nav_order: 2
 
 # Programmation
 
-La partie programmation constitue le véritable # « cerveau » de notre puzzle bot. Elle permet de contrôler l’ensemble du système en gérant le comportement du robot, ses déplacements ainsi que les interactions avec les différents composants électroniques. Grâce au programme, le robot est capable d’exécuter des actions précises de manière automatique.
+La partie programmation constitué de Aymeric et Shaza est la partie centrale de notre puzzle bot. Elle permet de contrôler l’ensemble du système en gérant le comportement du robot, ses déplacements ainsi que les interactions avec les différents composants électroniques. Grâce au programme, le robot est capable d’exécuter des actions précises de manière automatique.
 
 Dans cette partie, nous avons développé le code permettant d’assurer le bon fonctionnement du robot. Nous avons configuré les entrées et sorties, notamment les interrupteurs de fin de course placés sur les axes X et Y, afin de détecter les limites de déplacement. Nous avons également programmé les mouvements du robot et mis en place des conditions de sécurité, comme l’arrêt automatique lorsqu’une limite est atteinte. Enfin, nous avons structuré la logique globale pour que toutes les actions s’enchaînent correctement.
 
