@@ -58,6 +58,6 @@ Chaque servomoteur possède 3 fils dont :
   
 Au vu du fait que notre carte arduino délivre une amplititude de 5v et que la pompe a besoin de 12v pour son fonctionnement. Nous avons utilisé un **MOSFET** pour contrer ce problème. Comme vous pouvez le voi sur l'image ci-dessous.
 
-  <img src="./images/Pompe-MOSFET.jpeg"  width="400" height="400">   
-Nous avons premierement executer un branchement les 2 fils de la pompe et le MOSFET sur le **MOTOR 1** et un second branchement entre le MOSFET et les fils de la valve sur le **MOTOR 2**.
-Les fils sortants du MOSFET ( rouge et vert) sont respectivement branchés sur le VCC et SpnDlr.
+  <img src="./images/Pompe%20-%20MOSFET.jpeg"  width="400" height="400">   
+Nous avons premierement executer un branchement les 2 fils de la pompe et le MOSFET sur le **MOTOR_1** et un second branchement entre le MOSFET et les fils de la valve sur le **MOTOR_2**.
+Les fils sortants du MOSFET (rouge et vert) sont respectivement branchés sur le VCC et SpnDlr.
