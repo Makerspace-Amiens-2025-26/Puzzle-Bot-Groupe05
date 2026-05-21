@@ -38,7 +38,10 @@ nav_order: 4
 - interrupteurs d'urgence
 
   <img src="./images/Bouton%20d'arret%20d'urgence.jpeg"  width="400" height="400">
+  
 - imprimantes 3d pour fabriquer des socles pour les autres matériaux
+  
+  <img src="./images/Imprimante_3D.jpeg"  width="400" height="400">
 
 - courroies
   
