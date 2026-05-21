@@ -7,6 +7,7 @@ nav_order: 4
 # Liste des Matériaux
 
 - plateau
+ 
   <img src="./images/Plateau.png"  width="400" height="400">
 - profilés
   
