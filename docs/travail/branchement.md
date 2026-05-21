@@ -52,4 +52,4 @@ Chaque servomoteur possède 3 fils dont :
 
   - Branchement de l'electrovanne
     
-  <img src="./images/Branchement_de__la_pompe.jpeg"  width="400" height="400">  
+  <img src="./images/Branchement_de_la_pompe.jpeg"  width="400" height="400">  
