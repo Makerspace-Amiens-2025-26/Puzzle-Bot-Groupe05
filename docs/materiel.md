@@ -47,6 +47,9 @@ nav_order: 4
 - courroies
   
  <img src="./images/courroie.webp"  width="400" height="400">
+- Fils électriques 
+
+ <img src="./images/Fils_électrique.jpeg"  width="400" height="400">
 
 - outils divers (pinces, tournevis, ...)
   
