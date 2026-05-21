@@ -37,3 +37,4 @@ https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b
 **Soutient du plateau** 
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=98d008d38688f5ae01af0ce9&elementType=PARTSTUDIO
 Ils sont present sur les quatre cotes du plateau
+
