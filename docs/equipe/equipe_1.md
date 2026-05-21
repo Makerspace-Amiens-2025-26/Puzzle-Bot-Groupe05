@@ -26,3 +26,8 @@ Cette pièce a été dessinée pour contenir et protéger la carte eletronique d
 
 **Plateau**
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=435b181f1b1f9d007f4a1cb6&elementType=PARTSTUDIO
+
+**Outils de support pour la camera**
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=422586ceb155409133a4f3c9&elementType=PARTSTUDIO
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=d7e16873e17963b9a7509e42&elementType=PARTSTUDIO
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=8ba3b71b98ddd9e00a621f25&elementType=PARTSTUDIO
