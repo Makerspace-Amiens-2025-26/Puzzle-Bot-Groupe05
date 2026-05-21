@@ -41,6 +41,7 @@ nav_order: 4
 - imprimantes 3d pour fabriquer des socles pour les autres matériaux
 
 - courroies
+<img src="./images/courroie.webp"  width="400" height="400">
 
 - outils divers (pinces, tournevis, ...)
 
