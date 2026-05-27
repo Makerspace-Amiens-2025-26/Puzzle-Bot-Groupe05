@@ -25,3 +25,7 @@ Les avantages de cette bibliothèque sont notamment:
 
 ---
 Choix des PINS 
+
+<img src="../images/Choix_PINS.PNG" width="400" height="400"></img>
+
+Pour faire communiquer la carte arduino avec les composants du Puzzle bot ( Servomoteurs, bouton fin de course, etc) il est necessaire de leur attribuer des PINS.  
