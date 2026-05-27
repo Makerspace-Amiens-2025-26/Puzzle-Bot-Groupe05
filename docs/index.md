@@ -22,11 +22,9 @@ https://cad.onshape.com/documents/1f8d508aa42a1f24d486347e/v/eee567b5fe93adee48d
 
 ## Notre repo GitHub
 (https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05)
-[Notre repo GitHub]{: .btn .fs-5 .mb-4 .mb-md-0 }
+[Notre repo GitHub]
 
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=2860ed3d58f1b518e6857770&wvm=v&wvmid=6280fca954e7770df59e5a2f&eid=0cab16137cd459ee83ebe56e&elementType=ASSEMBLY" frameborder="0"></iframe>
 
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=97682665ed555c395ccb2db8&eid=d369a3de1c71a4ef5f42a4fe&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 {: .warning }
 >Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
