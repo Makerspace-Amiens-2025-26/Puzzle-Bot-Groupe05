@@ -40,7 +40,7 @@ Il est important de noter que seuls les fils rouge et noir sont utilisés pour l
 
   - Branchement des servomoteurs :
 
-<img src="../images/Branchement_des_servomoteurs.jpeg" width="400" height="400">
+src="../images/Branchement_des_servomoteurs.jpeg" width="400" height="400"><img
 
 Explications:
 
