@@ -42,5 +42,12 @@ Activation des Moteurs et Pompes
 <img src="../images/Moteur_Pompe.PNG" width="400" height="400"></img>
 
 Ces fonctions ont pour objectif respectif l'activation des moteurs et de la pompe.
+
+LimitPressed
 ---
+
+<img src="../images/LimitPressed.PNG" width="400" height="400"></img>
+
+Cette fonction permet à notre programme de détecter lorsque l'un des interrupteurs fin de course est actionné. Elle est notamment utilisé lors de la phase de HOMING qui permet de définir un systéme de coordonnée à nos moteurs stepper. Cette phase sera expliqué plus en détail dans la partie suivante du code. 
+
 
