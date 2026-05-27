@@ -8,7 +8,26 @@ permalink: /
 # Projet: PUZZLE BOT
 
 Bienvenue dans la documentation de notre projet Puzzle Bot. Vous trouverez sur ce site toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+# 🧩 PuzzleSolver-Bot
+Machine mécatronique autonome de résolution de puzzles.
 
+## 📌 Description
+Ce projet consiste en la conception d'une machine capable d'analyser, trier et assembler les pièces d'un puzzle de manière autonome.
+
+## 🛠️ Spécifications Techniques
+- **Microcontrôleur :** Arduino / ESP32
+- **Langage :** C++ / Python (OpenCV)
+- **Actionneurs :** Servomoteurs pour le bras manipulateur
+
+## 🚀 Installation
+1. Clonez le dépôt :
+   `git clone https://github.com/votre-utilisateur/votre-projet.git`
+2. Installez les dépendances nécessaires...
+
+## 👩‍🔬 Compétences mises en œuvre
+- Développement de systèmes embarqués
+- Analyse algorithmique et optimisation
+- Conception mécanique et mécatronique
 [Notre projet sur Onshape](https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }https://cad.onshape.com/documents/1f8d508aa42a1f24d486347e/v/eee567b5fe93adee48d8bb34/e/f5fd917809d5687abe8c3f1d?showReturnToWorkspaceLink=true
 [Notre repo GitHub](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05){: .btn .fs-5 .mb-4 .mb-md-0 }
 
