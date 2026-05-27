@@ -12,11 +12,6 @@ Bienvenue dans la documentation de notre projet Puzzle Bot. Vous trouverez sur c
 ##  Description
 Ce projet consiste en la conception d'une machine capable d'analyser, trier et assembler les pièces d'un puzzle de manière autonome.
 
-## Spécifications Techniques
-- **Microcontrôleur :** Arduino
-- **Langage :** C++ / Python 
-- **Actionneurs :** Servomoteurs
-
 ## Notre projet sur Onshape
 https://cad.onshape.com/documents/1f8d508aa42a1f24d486347e/v/eee567b5fe93adee48d8bb34/e/f5fd917809d5687abe8c3f1d?showReturnToWorkspaceLink=true
 
@@ -27,7 +22,7 @@ https://cad.onshape.com/documents/1f8d508aa42a1f24d486347e/v/eee567b5fe93adee48d
 
 Inspiré des robots réalisés par [Mark Rober](https://www.youtube.com/watch?v=Sqr-PdVYhY4) et [Stuff Made Here](https://www.youtube.com/watch?v=WsPHBD5NsS0), ce projet vise à la création d'un robot autonome qui a pour but (comme son nom l'indique) la résolution de puzzle. 
 
-Ce projet fait partie de notre formation d'ingénieur en énergie et numérique à Unilasalle Amiens. Cependant il est accessible à n'importe qui de par son côté ludique.
+Il fait partie de notre formation d'ingénieur en énergie et numérique à Unilasalle Amiens. Cependant il est accessible à n'importe qui de par son côté ludique.
 
 
 ## Poster
