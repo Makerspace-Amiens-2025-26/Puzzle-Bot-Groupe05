@@ -22,3 +22,6 @@ Les avantages de cette bibliothèque sont notamment:
 * la création d'un objet pour les servomoteurs ce qui permet une utilisation simplifié de ce dernier
 * l'utilisation de plusieurs servomoteurs à la fois
 * l'utilisation d'angle afin de donner des positions au moteur au lieu d'avoir à gérer les impulsions PWM
+
+---
+Choix des PINS 
