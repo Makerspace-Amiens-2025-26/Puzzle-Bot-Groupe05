@@ -16,7 +16,7 @@ Ce projet consiste en la conception d'une machine capable d'analyser, trier et a
 https://cad.onshape.com/documents/1f8d508aa42a1f24d486347e/v/eee567b5fe93adee48d8bb34/e/f5fd917809d5687abe8c3f1d?showReturnToWorkspaceLink=true
 
 ## Notre repo GitHub
-(https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05)
+https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05
 
 ## À propos du Projet
 
