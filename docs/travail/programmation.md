@@ -29,15 +29,16 @@ Choix des PINS
 <img src="../images/Choix_PINS.PNG" width="400" height="400"></img>
 
 Pour faire communiquer la carte arduino avec les composants du Puzzle bot ( Servomoteurs, bouton fin de course, etc) il est necessaire de leur attribuer des PINS. 
----
+
 Setup
+---
 
 <img src="../images/Setup.PNG" width="400" height="400"></img>
 
 Cette partie du code sert à l'initialisation des composants. Elle est exécutée une seule fois lors de la mise sous tension de la carte.
----
-Activation des Moteurs et Pompes 
 
+Activation des Moteurs et Pompes 
+---
 <img src="../images/Moteur_Pompe.PNG" width="400" height="400"></img>
 
 Ces fonctions ont pour objectif respectif l'activation des moteurs et de la pompe.
