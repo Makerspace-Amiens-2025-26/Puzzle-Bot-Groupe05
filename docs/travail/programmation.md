@@ -50,4 +50,9 @@ LimitPressed
 
 Cette fonction permet à notre programme de détecter lorsque l'un des interrupteurs fin de course est actionné. Elle est notamment utilisé lors de la phase de HOMING qui permet de définir un systéme de coordonnée à nos moteurs stepper. Cette phase sera expliqué plus en détail dans la partie suivante du code. 
 
+Homing
+---
+<img src="../images/Homing.PNG" width="400" height="400"></img>
+
+L'algorithme de cette fonction est plutot simple: Il va donner comme instruction aux moteurs d'aller dans un sens en utilisant deux fonctions de la bibliothèque AcceLstepper  la fonction SetSpeed (il définit le sens en fonction du signe de la vitesse) couplée avec la fonction RunSpeed jusqu'a atteindre l'interrupteur fin de course de l'axe correspondant. Nous exécutons cette fonction dans la partie Setup du programme comme vous avez pu le voir précedemment. 
 
