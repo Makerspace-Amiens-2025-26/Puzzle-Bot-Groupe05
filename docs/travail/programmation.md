@@ -54,5 +54,10 @@ Homing
 ---
 <img src="../images/Homing.PNG" width="400" height="400"></img>
 
-L'algorithme de cette fonction est plutot simple: Il va donner comme instruction aux moteurs d'aller dans un sens en utilisant deux fonctions de la bibliothèque AcceLstepper  la fonction SetSpeed (il définit le sens en fonction du signe de la vitesse) couplée avec la fonction RunSpeed jusqu'a atteindre l'interrupteur fin de course de l'axe correspondant. Nous exécutons cette fonction dans la partie Setup du programme comme vous avez pu le voir précedemment. 
+L'algorithme de cette fonction est plutôt simple: Il va donner comme instruction aux moteurs d'aller dans un sens en utilisant deux fonctions de la bibliothèque AcceLstepper: la fonction SetSpeed (il définit le sens en fonction du signe de la vitesse) couplée avec la fonction RunSpeed jusqu'a atteindre l'interrupteur fin de course de l'axe correspondant. Nous exécutons cette fonction dans la partie Setup du programme comme vous avez pu le voir précedemment. 
 
+Move To
+---
+<img src="../images/Move_to.PNG" width="400" height="400"></img>
+
+Cette fonction va se servir du système de coordonnées définit grâce à la fonction Homing afin de faire déplacer le robot à une certaine position. 
