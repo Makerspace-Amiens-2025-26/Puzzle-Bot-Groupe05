@@ -33,4 +33,5 @@ Pour faire communiquer la carte arduino avec les composants du Puzzle bot ( Serv
 Setup
 
 <img src="../images/Setup.PNG" width="400" height="400"></img>
+
 Cette partie du code sert à l'initialisation des composants. Elle est exécutée une seule fois lors de la mise sous tension de la carte. 
