@@ -67,7 +67,7 @@ https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b
 triple gauche 2 Copy 2
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=58af5c911b71541037e7f05d&elementType=PARTSTUDIO
 
-@Louis, j'ai mis toute les pièces qu'on a utilisé par ordre (Droite à Gauche) jusqu'à "triple gauche 2 copy 2"
-
+@Louis, j'ai mis toute les pièces qu'on a utilisé par ordre (Droite à Gauche) jusqu'à "triple gauche 2 copy 2".
+Continue de l'àprès.
 
 
