@@ -10,6 +10,23 @@ title: Conception et prototypage
 Pour transformer nos concepts en une machine fonctionnelle, nous avons utilisé les équipements du plateau technique de l'école. Cette phase a permis de valider la structure mécanique et l'intégration des composants électroniques.
 
 
+MAKER-UNO+CNC-SHIELD-V3 Copy 1
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a75aa863af6a5e53865ed936&elementType=ASSEMBLY
+
+Couvercle Boite
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=6067558d4ff4012083551e9a&elementType=PARTSTUDIO
+
+Boite electronique
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=1cf6cea800fff4c9c036df72&elementType=PARTSTUDIO
+
+V-SLOT WHEEL
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c32ba0c614b3600b5b556bb&elementType=PARTSTUDIO
+
+PULLEY-GT2-6MM
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=d23d42d7e7c52a9d8fe46ff6&elementType=PARTSTUDIO
+
+PINION-GT2-6MM
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=332ebf19e6193d43163e5194&elementType=PARTSTUDIO
 
 
 
@@ -41,5 +58,4 @@ socle sans moteur droite
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=327028c9845a7df20242fab7&elementType=PARTSTUDIO
 
 
-https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=1cf6cea800fff4c9c036df72&elementType=PARTSTUDIO
 
