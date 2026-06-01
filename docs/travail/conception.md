@@ -43,24 +43,24 @@ https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b
 PUMP
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO
 
-socle moteur
+Socle moteur
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=0e61d7d3f7938171c126d214&elementType=PARTSTUDIO
 
 Socle moteur h
 
-triple gauche
+Triple gauche
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=bebbc3f1ef20b15be9e1312a&elementType=PARTSTUDIO
 
-triple fin gauche
+Triple fin gauche
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=65895120d690e6a90984c9cb&elementType=PARTSTUDIO
 
-triple fin droite
+Triple fin droite
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=e8961972e50e2fec1052e479&elementType=PARTSTUDIO
 
-socle sans moteur droite
+Socle sans moteur droite
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=327028c9845a7df20242fab7&elementType=PARTSTUDIO
 
-socle sans moteur gauche
+Socle sans moteur gauche
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=60c80b0b974dd16a709bb1b3&elementType=PARTSTUDIO
 
 Socle sans moteur h
