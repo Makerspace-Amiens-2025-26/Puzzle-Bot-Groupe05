@@ -10,7 +10,7 @@ title: Conception et prototypage
 Pour transformer nos concepts en une machine fonctionnelle, nous avons utilisé les équipements du plateau technique de l'école. Cette phase a permis de valider la structure mécanique et l'intégration des composants électroniques.
 
 
-MAKER-UNO+CNC-SHIELD-V3 Copy 1
+MAKER-UNO+CNC-SHIELD-V3 carte arduino
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a75aa863af6a5e53865ed936&elementType=ASSEMBLY
 
 Couvercle Boite
