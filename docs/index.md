@@ -26,7 +26,7 @@ Il fait partie de notre formation d'ingénieur en énergie et numérique à Unil
 
 Ici vous publierez le poster de votre projet.
 
-![Poster projet](images/poster.jpg)
+![Poster projet](images/Poster.jpg)
 
 ## Vidéo
 
