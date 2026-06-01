@@ -67,8 +67,12 @@ Cette fonction va se servir du système de coordonnées définit grâce à la fo
 Dans une seconde partie, nous avons intégré une caméra à notre projet, ayant pour but de détecter des marqueurs [Aruco](https://robotechnancy.github.io/Odometrie/OdometrieAbsolue/PresentationArUCO/). Cependant, il n'est pas facile de pouvoir analyser une image facilement avec Arduino. Nous avons donc pris la décision de complémenter notre projet avec l'utilisation d'un code python. Nous avons choisi ce langage car il posséde de multiple bibliothèques qui sont utiles pour le traitement d'image et même pour la détection desdits marqueurs. Parmis ces bibliothèques, nous utilisons notamment [OpenCV](https://www.pythoniaformation.com/blog/tutoriels-python-par-categories/apprendre-la-computer-vision/opencv-bases-partie1) qui comme anoncé précemment permet la capture et le traitement d'image à partir d'un code python (Vous pourrez trouvez des exemples d'utilisation dans la partie projet de notre repo GitHub). 
 
 Exemple d'utilisation du code read_aruco.py:
+
 Image capturé:
+
 <img src="../images/Captured.PNG" width="400" height="400"></img>
+
 Image après le traitement:
+
 <img src="../images/Detected.PNG" width="400" height="400"></img>
 
