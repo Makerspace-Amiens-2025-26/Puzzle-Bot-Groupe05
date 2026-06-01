@@ -56,7 +56,6 @@ triple fin droite
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=e8961972e50e2fec1052e479&elementType=PARTSTUDIO
 
 socle moteur h
-https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=b9d1d6a7d071edb045985fcf&elementType=PARTSTUDIO
 
 socle sans moteur droite
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=327028c9845a7df20242fab7&elementType=PARTSTUDIO
