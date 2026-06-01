@@ -25,7 +25,7 @@ https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b
 PULLEY-GT2-6MM coulisseur courroie
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=d23d42d7e7c52a9d8fe46ff6&elementType=PARTSTUDIO
 
-PINION-GT2-6MM
+PINION-GT2-6MM coulisseur courroie 2
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=332ebf19e6193d43163e5194&elementType=PARTSTUDIO
 
 SWITCH
