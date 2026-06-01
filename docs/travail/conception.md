@@ -14,7 +14,6 @@ MAKER-UNO+CNC-SHIELD-V3 carte arduino
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a75aa863af6a5e53865ed936&elementType=ASSEMBLY
 
 Couvercle Boite
-https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=6067558d4ff4012083551e9a&elementType=PARTSTUDIO
 
 Boite electronique
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=1cf6cea800fff4c9c036df72&elementType=PARTSTUDIO
