@@ -76,6 +76,9 @@ https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b
 Rehausseur moteur
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=2d863c5d7df2f9789d8c6ca9&elementType=PARTSTUDIO
 
+Connique
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a00178e46fa76f4ec13eb7a3&elementType=PARTSTUDIO
+
 @Louis, j'ai mis toute les pièces qu'on a utilisé par ordre (Droite à Gauche) jusqu'à "triple gauche 2 copy 2".
 Continue de l'àprès.
 
