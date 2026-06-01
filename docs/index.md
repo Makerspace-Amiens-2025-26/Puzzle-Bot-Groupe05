@@ -12,11 +12,8 @@ Bienvenue dans la documentation de notre projet Puzzle Bot. Vous trouverez sur c
 ##  Description
 Ce projet consiste en la conception d'une machine capable d'analyser, trier et assembler les pièces d'un puzzle de manière autonome.
 
-## Notre projet sur Onshape
-https://cad.onshape.com/documents/1f8d508aa42a1f24d486347e/v/eee567b5fe93adee48d8bb34/e/f5fd917809d5687abe8c3f1d?showReturnToWorkspaceLink=true
-
-## Notre repo GitHub
-https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05
+[Notre projet sur Onshape](https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Notre repo GitHub](https://github.com/Makerspace-Amiens-2025-26/Puzzle-Bot-Groupe05){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## À propos du Projet
 
