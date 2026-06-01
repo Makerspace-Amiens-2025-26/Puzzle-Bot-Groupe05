@@ -82,6 +82,9 @@ https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b
 Pièce de puzzle
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=16b6b4f1f500bd3004ca2049&elementType=PARTSTUDIO
 
+Camera arrière
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=422586ceb155409133a4f3c9&elementType=PARTSTUDIO
+
 @Louis, j'ai mis toute les pièces qu'on a utilisé par ordre (Droite à Gauche) jusqu'à "triple gauche 2 copy 2".
 Continue de l'àprès.
 
