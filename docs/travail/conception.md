@@ -73,6 +73,9 @@ https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b
 Coin de plateau droite
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c1b485d41e2aa5a0e0be682&elementType=PARTSTUDIO
 
+Rehausseur moteur
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=2d863c5d7df2f9789d8c6ca9&elementType=PARTSTUDIO
+
 @Louis, j'ai mis toute les pièces qu'on a utilisé par ordre (Droite à Gauche) jusqu'à "triple gauche 2 copy 2".
 Continue de l'àprès.
 
