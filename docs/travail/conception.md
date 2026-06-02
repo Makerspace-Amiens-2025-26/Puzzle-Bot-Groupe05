@@ -17,6 +17,7 @@ MAKER-UNO+CNC-SHIELD-V3 carte arduino
 Couvercle Boite
 
 Boite electronique
+
 Après une premiere impression de la pièce nous avons rencontré certains problèmes notamment: trop d'espace dans la boite après l'insertion de la carte Arduino, pas d'espace d'édier au câble d'alimentation,... 
 Pour palier tous ces problèmes nous avons réaliser cette pièce:
 
