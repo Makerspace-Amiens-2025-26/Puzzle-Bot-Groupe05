@@ -76,3 +76,16 @@ Image après le traitement:
 
 <img src="../images/Detected.PNG" width="400" height="400"></img>
 
+Du point de vue de son fonctionnement, le code est relativement simple à comprendre car la majorité des fonctions ont des noms plutôt explicites.
+
+<img src="../images/Capture_image.PNG" width="400" height="400"></img>
+
+Nous commençons par capturer une image (par exemple celle ci-dessus) avec la fonction read d'Opencv qui va, comme son nom l'indique, lire ce que la caméra enregistre. Les fonctions suivantes permettent de créer une fenêtre afin de visualiser l'image, puis d'attendre que l'utilisateur appuie sur une touche avant de détruire les fenêtres créées.
+
+<img src="../images/Initialise_parameters.PNG" width="400" height="400"></img>
+
+Une fois l'image enregistré, nous lui appliquons un filtre (ici le filtre nuance de gris avec la fonction cvtcolor) afin de faciliter son traitement futur. Nous définissons également le dictionnaire Aruco que nous utilisons car ces derniers peuvent avoir différentes tailles ou formes.
+
+<img src="../images/Detect_markers.PNG" width="400" height="400"></img>
+
+Il ne reste plus qu'a détecter les marqueurs. Heureusement, OpenCV posséde une fonction qui réalise ce travail (la fonction detectMarkers). Il s'agit donc de dessiner les marqueurs sur l'image et de rajouter un point qui marque le centre de ces derniers. Vous pouvez voir le rendu dans l'image ci-dessus.
