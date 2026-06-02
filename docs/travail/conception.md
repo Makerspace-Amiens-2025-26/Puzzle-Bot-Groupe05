@@ -22,7 +22,8 @@ La fabrication de cette pièce a été réalisé plus d'une fois ceci à cause d
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=930b01b0ae626701b32b1083&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Boite electronique
-Après une premiere impression de la pièce nous avons rencontré certains problèmes notamment: trop d'espace dans la boite après l'insertion de la carte Arduino, pas d'espace consacré au câble d'alimentation,... 
+Après une premiere impression de la pièce nous avons rencontré certains problèmes notamment: trop d'espace dans la boite après l'insertion de la carte Arduino, pas d'espace consacré au câble d'alimentation, ... 
+
 Pour palier tous ces problèmes nous avons réaliser cette pièce:
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=1cf6cea800fff4c9c036df72&elementType=PARTSTUDIO" frameborder="0"></iframe>
@@ -78,15 +79,17 @@ Cette pièce représente le support permettant de maintenir les moteurs pas à p
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=0e61d7d3f7938171c126d214&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Triple gauche
-Cette pièce est la liaison entre la courroie et l'axe Y et sert également comme support pour d'autres pièces du puzzle. 
+Cette pièce est la liaison entre la courroie et l'axe Y et sert également comme support pour d'autres pièces du robot. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=bebbc3f1ef20b15be9e1312a&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Triple fin gauche
+Cette pièce est la liaison entre la courroie et l'axe Y et sert également comme support pour d'autres pièces du robot mais du côté gauche. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=65895120d690e6a90984c9cb&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Triple fin droite
+Cette pièce est la liaison entre la courroie et l'axe Y et sert également comme support pour d'autres pièces du robot mais du côté droit. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=e8961972e50e2fec1052e479&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
