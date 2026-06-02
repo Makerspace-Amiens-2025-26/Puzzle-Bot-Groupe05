@@ -58,17 +58,23 @@ Cette pièce est la représentation 3D du servomoteur.
 
 ## 17HE12-1204S (Moteur)
 
+Voici la représentation 3D du moteur pas à pas.
+
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=52c24c6401d240981a6eb543&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## EV (Essentiel pour Pompe)
 
+Cette pièce est la représentation 3D de l'électrovanne.
+
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## PUMP
+Cette pièce est la représentation 3D de la pompe.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Socle moteur
+Cette pièce représente le support permettant de maintenir les moteurs pas à pas en position vertical. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=0e61d7d3f7938171c126d214&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
