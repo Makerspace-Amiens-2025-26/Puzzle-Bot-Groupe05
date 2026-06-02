@@ -12,6 +12,8 @@ Pour transformer nos concepts en une machine fonctionnelle, nous avons utilisé 
 
 ## MAKER-UNO+CNC-SHIELD-V3 carte arduino
 
+Cette piéce est la représentation 3D de la carte Aduino.
+
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a75aa863af6a5e53865ed936&elementType=ASSEMBLY" frameborder="0"></iframe>
 
 ## Couvercle Boite
@@ -49,6 +51,8 @@ Voici une représention du model 3D du Bouton fin de course.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=6ec722234c85e171cb8b3708&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## FS5103B (Servo Moteur)
+
+Cette pièce est la représentation 3D du servomoteur.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=f9e719aceeb4bdfba4976f38&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
