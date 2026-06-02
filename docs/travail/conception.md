@@ -15,6 +15,8 @@ Pour transformer nos concepts en une machine fonctionnelle, nous avons utilisé 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a75aa863af6a5e53865ed936&elementType=ASSEMBLY" frameborder="0"></iframe>
 
 ## Couvercle Boite
+La fabrication de cette pièce a été réalisé plus d''une fois ceci a cause du nombre incalculable des fils contenus dans notre puzzle. Mais le resultat final est la pièce ci-dessous. 
+
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=930b01b0ae626701b32b1083&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Boite electronique
@@ -29,6 +31,8 @@ Pour palier tous ces problèmes nous avons réaliser cette pièce:
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c32ba0c614b3600b5b556bb&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## PULLEY-GT2-6MM coulisseur courroie
+
+Cette pièce réprensente une courroie. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=d23d42d7e7c52a9d8fe46ff6&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
