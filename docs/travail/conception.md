@@ -17,19 +17,19 @@ Cette piéce est la représentation 3D de la carte Aduino.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a75aa863af6a5e53865ed936&elementType=ASSEMBLY" frameborder="0"></iframe>
 
 ## Couvercle Boite
-La fabrication de cette pièce a été réalisé plus d''une fois ceci a cause du nombre incalculable des fils contenus dans notre puzzle. Mais le resultat final est la pièce ci-dessous. 
+La fabrication de cette pièce a été réalisé plus d'une fois ceci à cause du nombre incalculable des fils contenus dans notre puzzle. Mais le resultat final est la pièce ci-dessous. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=930b01b0ae626701b32b1083&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Boite electronique
 
-Après une premiere impression de la pièce nous avons rencontré certains problèmes notamment: trop d'espace dans la boite après l'insertion de la carte Arduino, pas d'espace d'édier au câble d'alimentation,... 
+Après une premiere impression de la pièce nous avons rencontré certains problèmes notamment: trop d'espace dans la boite après l'insertion de la carte Arduino, pas d'espace consacré au câble d'alimentation,... 
 Pour palier tous ces problèmes nous avons réaliser cette pièce:
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=1cf6cea800fff4c9c036df72&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## V-SLOT WHEEL
-Pour le déplacement de notre robot nous avons utilisé la pièce  ci-après.
+Pour le déplacement de notre robot nous avons utilisé la pièce ci-après.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c32ba0c614b3600b5b556bb&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## PULLEY-GT2-6MM coulisseur courroie
@@ -44,7 +44,7 @@ Cette pièce réprensente la courroie aidant au déplacement de l'axe Y.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=332ebf19e6193d43163e5194&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## SWITCH
+## Bouton fin de course
 
 Voici une représention du model 3D du Bouton fin de course.
 
@@ -125,25 +125,26 @@ Cette pièce représente le support permettant de maintenir les moteurs pas à p
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a00178e46fa76f4ec13eb7a3&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Pièce de puzzle
-
+Cette pièce est la représentation 3D des piéces de Puzzle
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=16b6b4f1f500bd3004ca2049&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Camera arrière
-Elle représente couvercle de la caméra permettant de stabilisé la camera. 
+Elle représente couvercle de la caméra permettant de stabilisé la caméra. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=422586ceb155409133a4f3c9&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Camera base
-Elle représente le support de la camera orienté vers le bas ayant pour vision d'ensemble le plateau, les pièces de puzzle. 
+Elle représente le support de la caméra orienté vers le bas ayant pour vision d'ensemble le plateau, les pièces de puzzle. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=3493bd0f12b7aaed7282e628&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Eslabon_cadena (Importé de "Printables")
-Elle représente le cable management.
+
+Elle représente le câble management.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=71baf6f7c393927a6a3b1b47&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## EslabonBase
-Elle repésente la base qui fait fixer la cable management.
+Elle permet de fixer les fils entre eux. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=6655e7ed04f5160e4dea80c0&elementType=PARTSTUDIO" frameborder="0"></iframe>
