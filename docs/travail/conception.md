@@ -93,11 +93,13 @@ Cette pièce est la liaison entre la courroie et l'axe Y et sert également comm
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=e8961972e50e2fec1052e479&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## Socle sans moteur droite
+## Socle du moteur droite et du  bouton fin de course  
+Cette pièce sert de support en meme temps au moteau pas à pas de l'axe X situé à droite et de bouton fin de course de l'axe X.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=327028c9845a7df20242fab7&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Socle sans moteur gauche
+Cette pièce sert de support en meme temps au moteau pas à pas de l'axe Y situé à gauche et de bouton fin de course de l'axe Y.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=60c80b0b974dd16a709bb1b3&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
