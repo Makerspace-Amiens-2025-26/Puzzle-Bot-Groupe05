@@ -15,6 +15,7 @@ Pour transformer nos concepts en une machine fonctionnelle, nous avons utilisé 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a75aa863af6a5e53865ed936&elementType=ASSEMBLY" frameborder="0"></iframe>
 
 ## Couvercle Boite
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=930b01b0ae626701b32b1083&elementType=PARTSTUDIO
 
 ## Boite electronique
 
