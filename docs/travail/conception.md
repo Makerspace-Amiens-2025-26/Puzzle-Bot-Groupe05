@@ -78,9 +78,8 @@ Cette pièce représente le support permettant de maintenir les moteurs pas à p
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=0e61d7d3f7938171c126d214&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## Socle moteur h
-
 ## Triple gauche
+Cette pièce est la liaison entre la courroie et l'axe Y et sert également comme support pour d'autres pièces du puzzle. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=bebbc3f1ef20b15be9e1312a&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
