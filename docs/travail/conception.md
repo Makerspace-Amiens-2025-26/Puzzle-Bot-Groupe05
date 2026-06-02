@@ -27,16 +27,18 @@ Pour palier tous ces problèmes nous avons réaliser cette pièce:
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=1cf6cea800fff4c9c036df72&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## V-SLOT WHEEL
-
+Pour le déplacement de notre robot nous avons utilisé la pièce  ci-après.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c32ba0c614b3600b5b556bb&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## PULLEY-GT2-6MM coulisseur courroie
 
-Cette pièce réprensente une courroie. 
+Cette pièce réprensente la courroie aidant au déplacemen de l'axe X. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=d23d42d7e7c52a9d8fe46ff6&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## PINION-GT2-6MM coulisseur courroie 2
+
+Cette pièce réprensente la courroie aidant au déplacement de l'axe Y.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=332ebf19e6193d43163e5194&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
