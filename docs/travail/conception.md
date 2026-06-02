@@ -22,7 +22,6 @@ La fabrication de cette pièce a été réalisé plus d'une fois ceci à cause d
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=930b01b0ae626701b32b1083&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Boite electronique
-
 Après une premiere impression de la pièce nous avons rencontré certains problèmes notamment: trop d'espace dans la boite après l'insertion de la carte Arduino, pas d'espace consacré au câble d'alimentation,... 
 Pour palier tous ces problèmes nous avons réaliser cette pièce:
 
