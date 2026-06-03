@@ -14,8 +14,9 @@
 #define X_LIMIT_PIN 9
 #define Y_LIMIT_PIN 10
 
-//#define ELECTRO_PIN _ // for now it doesn't work
+#define ELECTRO_PIN 4 
 #define PUMP_PIN    13
+
 
 float maxSpeed = 15000.0;
 float maxAccel = 7500.0;
@@ -53,6 +54,8 @@ void setup() {
   disablePump();
   pinMode(X_LIMIT_PIN, INPUT_PULLUP);
   pinMode(Y_LIMIT_PIN, INPUT_PULLUP);
+  pinMode(ELECTRO_PIN, OUTPUT);
+  digitalWrite(ELECTRO_PIN, LOW);
   delay(1000);
 
   disableMotors();
@@ -63,13 +66,15 @@ void setup() {
 }
 
 void loop() {
-  servo_up_down.write(0);
-  servo_rota.write(90);
-  digitalWrite(PUMP_PIN, LOW);
+  pickPiece();
+  servo_rota.write(45);
+  moveTo(10000, 4000);
+  releasePiece();
   delay(3000);
-  servo_up_down.write(33);
-  servo_rota.write(00);
-  digitalWrite(PUMP_PIN, HIGH);
+  pickPiece();
+  servo_rota.write(0);
+  moveTo(14000, 7000);
+  releasePiece();
   delay(3000);
 }
 
@@ -93,16 +98,53 @@ void enablePump(){
 void disablePump(){
   digitalWrite(PUMP_PIN, HIGH);
   Serial.println("Pump Disabled");
+
+}
+void enableElectro()
+{
+    digitalWrite(ELECTRO_PIN, HIGH);
+}
+void disableElectro()
+{
+    digitalWrite(ELECTRO_PIN, LOW);
 }
 
 void goUp()
 {
-  servo_up_down.write(0);
+    servo_up_down.write(0);   // UP position
+    delay(300);               // Wait for servo
 }
 
 void goDown()
 {
-  servo_up_down.write(33);
+    servo_up_down.write(33);  // DOWN position
+    delay(300);               // Wait for servo
+}
+
+void pickPiece()
+{
+    goDown();                 // Lower head
+
+    enablePump();             // Start vacuum pump
+    enableElectro();          // Open electrovalve
+    delay(3000);
+
+    goUp();                   // Lift piece
+
+    Serial.println("PIECE PICKED");
+}
+
+void releasePiece()
+{
+    goDown();                 // Lower head
+
+    disableElectro();         // Release vacuum
+    disablePump();
+    delay(3000);
+
+    goUp();                   // Lift head
+
+    Serial.println("PIECE RELEASED");
 }
 
 void setSpeedAccel(float speed, float accel){
@@ -144,7 +186,7 @@ void homing(){
   }
   stepperX.stop();
   stepperX.setCurrentPosition(0);
-  stepperX.runToNewPosition(-14000);  // move away from switch
+  stepperX.runToNewPosition(-15000);  // move away from switch
   Serial.println("Homing X OK");
 
   // Homing Y
@@ -154,7 +196,7 @@ void homing(){
   }
   stepperY.stop();
   stepperY.setCurrentPosition(0);
-  stepperY.runToNewPosition(-7000);
+  stepperY.runToNewPosition(-8000);
   Serial.println("Homing Y OK");
 
   disableMotors();
