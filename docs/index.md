@@ -9,6 +9,8 @@ permalink: /
 
 Bienvenue dans la documentation de notre projet Puzzle Bot. Vous trouverez sur ce site toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
+_Disclaimer: Cette documentation ayant été rédigée sans IA, il est possible qu'il y ai des fautes d'orthographes/ grammaires. Nous en avons conscience mais nous préférons faire ainsi en écrivant avec nos mots plutôt que de copier-coller des phrases toutes faites. Bonne lecture !!!_
+
 ##  Description
 Ce projet consiste en la conception d'une machine capable d'analyser, trier et assembler les pièces d'un puzzle de manière autonome.
 
