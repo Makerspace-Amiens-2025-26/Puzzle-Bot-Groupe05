@@ -111,38 +111,54 @@ void disableElectro()
 
 void goUp()
 {
-    servo_up_down.write(0);   // UP position
-    delay(300);               // Wait for servo
+    servo_up_down.write(0);
+    delay(400);
 }
 
 void goDown()
 {
-    servo_up_down.write(33);  // DOWN position
-    delay(300);               // Wait for servo
+    servo_up_down.write(33);
+    delay(400);
 }
 
 void pickPiece()
 {
-    goDown();                 // Lower head
+    // Start moving down
+    servo_up_down.write(33);
 
-    enablePump();             // Start vacuum pump
-    enableElectro();          // Open electrovalve
-    delay(3000);
+    // Turn on vacuum immediately
+    enablePump();
+    enableElectro();
 
-    goUp();                   // Lift piece
+    // Wait for servo to reach bottom
+    delay(300);
+
+    // Give suction time to grab piece
+    delay(500);
+
+    // Lift piece
+    servo_up_down.write(0);
+    delay(300);
 
     Serial.println("PIECE PICKED");
 }
 
 void releasePiece()
 {
-    goDown();                 // Lower head
+    // Lower piece
+    servo_up_down.write(33);
+    delay(300);
 
-    disableElectro();         // Release vacuum
+    // Release vacuum
+    disableElectro();
     disablePump();
-    delay(3000);
 
-    goUp();                   // Lift head
+    // Allow piece to drop
+    delay(500);
+
+    // Lift head
+    servo_up_down.write(0);
+    delay(300);
 
     Serial.println("PIECE RELEASED");
 }
