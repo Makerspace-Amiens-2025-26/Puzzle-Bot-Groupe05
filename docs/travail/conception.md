@@ -157,3 +157,6 @@ https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af84208
 
 ## Socle moteur h
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cda63b0fc51e8ca969e49446&elementType=PARTSTUDIO
+
+## Tventouse
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=3ca0ff7f0864355504d30aea&elementType=PARTSTUDIO
