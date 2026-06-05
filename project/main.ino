@@ -21,7 +21,7 @@
 float maxSpeed = 15000.0;
 float maxAccel = 7500.0;
 
-float homingSpeed = 1000.0;
+float homingSpeed = 4000.0;
 
 // Create stepper instances
 AccelStepper stepperX(AccelStepper::DRIVER, STEP_PIN_X, DIR_PIN_X);
