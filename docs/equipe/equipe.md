@@ -7,7 +7,7 @@ has_children: true
 
 # Notre équipe
 
-Dans cette section vous trouverez les détails sur des membres de notre équipe organisés par pôles de competences.
+Dans cette section vous trouverez les détails sur les membres de notre équipe organisés par pôles de compétences.
 
 ## Organisation 
 
@@ -16,14 +16,14 @@ __Binôme 1 : Conception__
 Membres: *LOUIS & ENRIC*
   
  
-Ce binome est responsable de la partie physique de la machine. Leur objectif est de s'assurer que la machine soit stable et capable de mannipuler les pieces du puzzle sans les abimer. Pour ce faire, ils utilisent le logiciel OnShape pour dessiner toutes les pieces et les assembler de manière à obtenir une version virtuelle de notre machine physique. Grâce à cela, ils peuvent faire une impression 3D ou une decoupe laser des pieces pour ainsi l'ajouter à la partie physique de notre machine.
+Ce binôme est responsable de la partie physique de la machine. Leur objectif est de s'assurer que la machine soit stable et capable de manipuler les pièces du puzzle sans les abimer. Pour ce faire, ils utilisent le logiciel OnShape pour dessiner toutes les pièces et les assembler virtuellement de manière à visualiser une version de notre machine. Grâce à cela, ils peuvent faire une impression 3D ou une découpe laser des pièces pour ensuite l'ajouter à la partie physique de notre machine.
 
 
 __Trinôme : Electronique__ 
 
 Membres: *JEANNY , CARLA-SERENA , ARIANE*
 
-Ce trinôme s'occupe de faire le lien entre l'ordinateur et les mouvements du robot. Concrètement, ils preparent la carte électronique pour faire fonctionner les moteurs avec présicion et installe un composant (le MOSFET) pour que l'Arduino puisse allumer la pompe de la ventouse. Il assure aussi la sécurité du projet en installant le bouton d'arrêt d'urgence et veille à ce que la caméra reste allumée afin de voir les pièces du puzzle.
+Ce trinôme s'occupe de faire le lien entre l'ordinateur et les mouvements du robot. Concrètement, ils préparent la carte électronique pour faire fonctionner les moteurs avec précision et installe un composant (le MOSFET) pour que l'Arduino puisse allumer la pompe de la ventouse. Il assure aussi la sécurité du projet en installant le bouton d'arrêt d'urgence et veille à ce que la caméra reste allumée afin de voir les pièces du puzzle.
 
 
 __Binôme 2 : Programmation__ 
