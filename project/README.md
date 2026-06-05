@@ -1,15 +1,15 @@
-Afin de nous renseigner sur le fonctionnement des différentes pièces du projet, nous avons effectué de multiples recherches. Vous trouverez ci-aprés une liste non exaustive de certaine ressources que nous avons utilisé.
+Afin de nous renseigner sur le fonctionnement des différentes pièces du projet, nous avons effectué de multiples recherches. Vous trouverez ci-aprés une liste non exaustive de certaines ressources que nous avons utilisées.
 
 # Les ressources du projet :
 
-## Détection de marqueur Aruco avec python
+## Détection de marqueur ArUco avec python
 Explication générale: [https://pyimagesearch.com/2020/12/21/detecting-aruco-markers-with-opencv-and-python/](https://pyimagesearch.com/2020/12/21/detecting-aruco-markers-with-opencv-and-python/)
 
 Explication OpenCV: [https://www.pythoniaformation.com/blog/tutoriels-python-par-categories/apprendre-la-computer-vision/opencv-bases-partie1](https://www.pythoniaformation.com/blog/tutoriels-python-par-categories/apprendre-la-computer-vision/opencv-bases-partie1)
 
 Documentation OpenCV: [https://docs.opencv.org/3.4/index.html](https://docs.opencv.org/3.4/index.html)
 
-OpenCV et marqueur Aruco: [https://towardsdev.com/aruco-marker-generation-and-detection-with-opencv-python-with-newer-updated-version-f801d7dcf211](https://towardsdev.com/aruco-marker-generation-and-detection-with-opencv-python-with-newer-updated-version-f801d7dcf211)
+OpenCV et marqueur ArUco: [https://towardsdev.com/aruco-marker-generation-and-detection-with-opencv-python-with-newer-updated-version-f801d7dcf211](https://towardsdev.com/aruco-marker-generation-and-detection-with-opencv-python-with-newer-updated-version-f801d7dcf211)
 
 Explication générale par video: [https://www.youtube.com/watch?v=bS00Vs09Upw](https://www.youtube.com/watch?v=bS00Vs09Upw)
 
@@ -24,7 +24,7 @@ Explication par vidéo: https://www.bing.com/videos/riverview/relatedvideo?q=fon
 
 Explication fournie par l'école : https://makerspace-amiens.fr/puzzle-bot/docs/hardware/stepper/
 
-## utilisation et pilotage des servomoteurs  
+## Utilisation et pilotage des servomoteurs  
 Information générale : https://makerspace-amiens.fr/puzzle-bot/docs/hardware/servomotor/
 
 ## Driver du moteur 
@@ -35,3 +35,5 @@ Information générale : https://www.robot-maker.com/shop/moteurs-et-actionneurs
 
 ## Documentation du CNC Shield 
 Information générale : https://makerspace-amiens.fr/puzzle-bot/docs/hardware/cnc-shield/
+
+https://www.youtube.com/watch?v=fyH5hU6ctvw&start=492
