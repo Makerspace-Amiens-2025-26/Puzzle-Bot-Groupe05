@@ -7,7 +7,7 @@ has_children: true
 
 # Notre équipe
 
-Dans cette section vous trouverez les détails sur les membres de notre équipe organisés par pôles de compétences.
+Dans cette section vous trouverez les détails sur les membres de notre équipe organisée par pôles de compétences.
 
 ## Organisation 
 
@@ -15,7 +15,6 @@ __Binôme 1 : Conception__
 
 Membres: *LOUIS & ENRIC*
   
- 
 Ce binôme est responsable de la partie physique de la machine. Leur objectif est de s'assurer que la machine soit stable et capable de manipuler les pièces du puzzle sans les abimer. Pour ce faire, ils utilisent le logiciel OnShape pour dessiner toutes les pièces et les assembler virtuellement de manière à visualiser une version de notre machine. Grâce à cela, ils peuvent faire une impression 3D ou une découpe laser des pièces pour ensuite l'ajouter à la partie physique de notre machine.
 
 
