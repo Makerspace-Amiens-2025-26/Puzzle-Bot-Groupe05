@@ -5,21 +5,21 @@ parent: Notre travail
 nav_order: 3
 ---
 
-Afin de faire communiquer les différents composants ensemble, il est nécessaire d'écrire des programmes que nous allons charger sur la carte arduino.
+Afin de faire communiquer les différents composants ensemble, il est nécessaire d'écrire des programmes que nous allons charger sur la carte Arduino.
 
-Dans notre projet, nous utilisons plusieurs bibliothèques pour Arduino qui vont nous aider à simplifier le code et nous permettre une utilisation plus simple des composants.
+Afin de nous aider dans notre tâche, nous utilisons dans notre projet plusieurs bibliothèques pour Arduino qui vont nous permettre de simplifier le code et faciliter la manipulation des composants.
 
 Nous utilisons la bibliothèque [Accelstepper](https://www.airspayce.com/mikem/arduino/AccelStepper/) pour l'utilisation des moteurs pas-à-pas.
 
 Les avantages de cette bibliothèque sont notamment:
 * permet l'accélération/décélération et l'utilisation de vitesse très basse
-* permet l'utilisation simultanné de plusieurs moteur indépendant
-* la pluspart des fonctions ne sont pas bloquantes ce qui permet de réaliser des tâches en simultanné
+* permet l'utilisation simultané de plusieurs moteur indépendant
+* la plupart des fonctions ne sont pas bloquantes ce qui permet de réaliser des tâches en simultané
 ---
 Nous utilisons la bibliothèque [Servo](https://docs.arduino.cc/libraries/servo/) pour l'utilisation des servomoteurs.
 
 Les avantages de cette bibliothèque sont notamment:
-* la création d'un objet pour les servomoteurs ce qui permet une utilisation simplifié de ce dernier
+* la création d'un objet pour les servomoteurs ce qui permet une utilisation simplifiée de ce dernier
 * l'utilisation de plusieurs servomoteurs à la fois
 * l'utilisation d'angle afin de donner des positions au moteur au lieu d'avoir à gérer les impulsions PWM
 
@@ -28,33 +28,37 @@ Choix des PINS
 
 <img src="../images/Choix_PINS.PNG" width="400" height="400"></img>
 
-Pour faire communiquer la carte arduino avec les composants du Puzzle bot ( Servomoteurs, bouton fin de course, etc) il est necessaire de leur attribuer des PINS. 
+Pour faire communiquer la carte Arduino avec les composants du Puzzle bot (Servomoteurs, bouton fin de course, etc) il est nécessaire de leur attribuer des PINS. Pour le choix de ces dernières, nous avons été limités par le Shield CNC. En effet, nous nous sommes référés à l'image suivante pour savoir lesquels étaient disponible.
+
+<img src="../images/CNC Shield pinout.jpeg" width="400" height="400"></img>
+
+Nous nous rendons donc compte que certaines broches sont réservées (par exemple la 8 pour le drive enable). Une fois que nous nous sommes rendu compte de cela, nous avons choisi arbitrairement selon nos besoins les numéros des broches que nous utilisons (par exemple la numéro 13 pour le moteur de la pompe).
 
 Setup
 ---
 
 <img src="../images/Setup.PNG" width="400" height="400"></img>
 
-Cette partie du code sert à l'initialisation des composants. Elle est exécutée une seule fois lors de la mise sous tension de la carte.
+Cette partie du code sert à l'initialisation des composants. Elle est propre à Arduino et est exécutée une seule fois lors de la mise sous tension de la carte. Nous nous en servons notamment pour relier les numéros des broches que nous avons choisi avec des variables afin de pouvoir manipuler les composants avec le code. Cette fonction nous permet aussi d'appeler la fonction homing qui sera expliqué un petit peu plus bas (pour faire cours, elle permet de déterminer la position initiale des moteurs pas-à-pas).
 
 Activation des Moteurs et Pompes 
 ---
 <img src="../images/Moteur_Pompe.PNG" width="400" height="400"></img>
 
-Ces fonctions ont pour objectif respectif l'activation des moteurs et de la pompe.
+Ces fonctions ont pour objectif respectif l'activation des moteurs et de la pompe. Comme vous pouvez les voir, nous utilisons la fonction pinMode dans chacun des cas. Cette fonction envoie pour consigne à la carte d'activer ou de désactiver une broche en fonction d'un état (respectivement HIGH et LOW). 
 
 LimitPressed
 ---
 
 <img src="../images/LimitPressed.PNG" width="400" height="400"></img>
 
-Cette fonction permet à notre programme de détecter lorsque l'un des interrupteurs fin de course est actionné. Elle est notamment utilisé lors de la phase de HOMING qui permet de définir un systéme de coordonnée à nos moteurs stepper. Cette phase sera expliqué plus en détail dans la partie suivante du code. 
+Cette fonction permet à notre programme de détecter lorsque l'un des interrupteurs fins de course est actionné. Elle utilise la fonction digitalRead qui permet à Arduino de lire l'état d'un bouton soit HIGH (relâché) ou LOW (appuyé). Elle est notamment utilisé lors de la phase de HOMING qui permet de définir un système de coordonnée à nos moteurs stepper. Cette phase sera expliquée plus en détail dans la partie suivante du code. 
 
 Homing
 ---
 <img src="../images/Homing.PNG" width="400" height="400"></img>
 
-L'algorithme de cette fonction est plutôt simple: Il va donner comme instruction aux moteurs d'aller dans un sens en utilisant deux fonctions de la bibliothèque AcceLstepper: la fonction SetSpeed (il définit le sens en fonction du signe de la vitesse) couplée avec la fonction RunSpeed jusqu'a atteindre l'interrupteur fin de course de l'axe correspondant. Nous exécutons cette fonction dans la partie Setup du programme comme vous avez pu le voir précedemment. 
+L'algorithme de cette fonction est plutôt simple: Il va donner comme instruction aux moteurs d'aller en direction des interrupteurs fins de course jusqu'à les atteindre. Elle utilise deux fonctions de la bibliothèque AccelStepper: la fonction SetSpeed (il définit le sens en fonction du signe de la vitesse) couplée avec la fonction RunSpeed (qui lance le mouvement). Une fois l'interrupteur atteint, nous initialisons la position atteinte comme étant l'origine puis nous nous écartons du boutons (notez que le point visé est négatif, cela est dû à la façon dont nous avons monté les moteurs (En soit ne faites pas la même erreur que nous)). Nous exécutons cette fonction dans la partie Setup du programme (comme vous avez pu le voir précédemment) et permet de créer une sorte de système de coordonnées qui est à la base des déplacements. 
 
 Move To
 ---
