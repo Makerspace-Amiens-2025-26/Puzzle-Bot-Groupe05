@@ -166,3 +166,6 @@ https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af84208
 
 ## Coin camera
 https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO
+
+## Arrêt
+https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO
