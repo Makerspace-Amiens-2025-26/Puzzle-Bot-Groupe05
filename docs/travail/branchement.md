@@ -76,4 +76,5 @@ Or le MOFSET était un nouvel élément électronique que nous n’avions jamais
 
 # Branchement du bouton d'arrêt d'urgence
 
+ <img src="../images/Bouuton%20d%20'%20arret.jpeg"  width="400" height="400">
 
