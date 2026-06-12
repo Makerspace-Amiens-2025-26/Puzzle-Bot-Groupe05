@@ -178,6 +178,7 @@ Cette pièce sert à lier la pièce qui lie le tube ventouse avec la pièce qui 
 
 ## Coin camera [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO)
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO" frameborder="0"></iframe>
+Cette pièce sert à lier les deux bars pour mêttre la camera en hauteur.
 
 ## Arrêt [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO)
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO" frameborder="0"></iframe>
