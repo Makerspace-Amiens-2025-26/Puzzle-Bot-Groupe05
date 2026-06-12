@@ -106,24 +106,16 @@ Cette pièce sert de support en meme temps au moteau pas à pas de l'axe Y situ�
 Cette pièce sert à tenir l'interrupteur de fin de course pour l'axe du haut.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=784c1e809a883deec0924697&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## * Electrovanne * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO)
-Cette pièce est la représentation 3D de l'électrovanne.
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO" frameborder="0"></iframe>
-
-## * Pompe * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO)
-Cette pièce est la représentation 3D de la pompe.
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO" frameborder="0"></iframe>
-
 ## Coin de plateau A [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=98d008d38688f5ae01af0ce9&elementType=PARTSTUDIO)
-Cette pièce sert à lier deux bars, le plateau, les socles avec ou sans moteur et à mêttre la machine légerement en hauteur. Elle a aussi une jumelle.
+Cette pièce sert à lier deux barres, le plateau, les socles avec ou sans moteur et à mettre la machine légerement en hauteur car sinon les roues ne pourraient pas bouger. Elle a aussi une jumelle qui va aller sur le coin opposé par rapport au centre du plateau.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=98d008d38688f5ae01af0ce9&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Coin de plateau B [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c1b485d41e2aa5a0e0be682&elementType=PARTSTUDIO)
-Cette pièce sert à lier deux bars, le plateau, les socles avec ou sans moteur et à mêttre la machine légerement en hauteur. Elle a aussi une jumelle.
+Cette pièce a les mêmes fonctions que la précédente. Elle se place de l'autre côté que la précédente.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c1b485d41e2aa5a0e0be682&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Rehausseur moteur [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=2d863c5d7df2f9789d8c6ca9&elementType=PARTSTUDIO)
-Cette pièce sert à créer de la distance entre les roues et la pièce qui est lié avec la courroie pour ne pas créer de frottement avec la bar.
+Cette pièce sert à créer de la distance entre les roues et la pièce qui est lié avec la courroie pour ne pas créer de frottement avec la barre.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=2d863c5d7df2f9789d8c6ca9&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Connique [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a00178e46fa76f4ec13eb7a3&elementType=PARTSTUDIO)
@@ -131,7 +123,7 @@ Cette pièce sert à lier le PULLEY avec le socle sans moteur.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a00178e46fa76f4ec13eb7a3&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Pièce de puzzle [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=16b6b4f1f500bd3004ca2049&elementType=PARTSTUDIO)
-Cette pièce est la représentation 3D des piéces de Puzzle
+Cette pièce est la représentation 3D des pièces de Puzzle
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=16b6b4f1f500bd3004ca2049&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Camera arrière [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=422586ceb155409133a4f3c9&elementType=PARTSTUDIO)
@@ -141,6 +133,18 @@ Elle représente couvercle de la caméra permettant de stabilisé la caméra.
 ## Camera base [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=3493bd0f12b7aaed7282e628&elementType=PARTSTUDIO)
 Elle représente le support de la caméra orientée vers le bas ayant pour vision d'ensemble le plateau, les pièces de puzzle. 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=3493bd0f12b7aaed7282e628&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
+## Coin caméra [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO)
+Cette pièce sert à lier les deux barres pour mêttre la camera en hauteur.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
+## Arrêt [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO)
+Cette pièce sert à tenir le bouton d'arrêt d'urgence et est lier avec la bar qui ne coulisse pas comme la boite de la carte électronique.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
+## Camera avant [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cef0d8154d491c6513c3d189&elementType=PARTSTUDIO)
+Cette pièce est lié à la barre pour tenir la caméra en hauteur et tient la face avant de la caméra.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cef0d8154d491c6513c3d189&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## * Eslabon_cadena (Importé de "Printables") * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=71baf6f7c393927a6a3b1b47&elementType=PARTSTUDIO)
 Elle représente le câble management.
@@ -154,21 +158,17 @@ Elle permet de fixer les fils entre eux.
 Cette pièce sert à tenir le moteur sur l'axe du haut.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cda63b0fc51e8ca969e49446&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
+## * Electrovanne * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO)
+Cette pièce est la représentation 3D de l'électrovanne.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
+## * Pompe * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO)
+Cette pièce est la représentation 3D de la pompe.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
 ## Tventouse [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=3ca0ff7f0864355504d30aea&elementType=PARTSTUDIO)
 Cette pièce sert à lier la pièce qui lie le tube ventouse avec la pièce qui coulisse sur l'axe du haut.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=3ca0ff7f0864355504d30aea&elementType=PARTSTUDIO" frameborder="0"></iframe>
-
-## Coin caméra [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO)
-Cette pièce sert à lier les deux barres pour mêttre la camera en hauteur.
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO" frameborder="0"></iframe>
-
-## Arrêt [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO)
-Cette pièce sert à tenir le bouton d'arrêt d'urgence et est lier avec la bar qui ne coulisse pas comme la boite de la carte électronique.
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO" frameborder="0"></iframe>
-
-## Camera avant [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cef0d8154d491c6513c3d189&elementType=PARTSTUDIO)
-Cette pièce est lié à la barre pour tenir la caméra en hauteur et tient la face avant de la caméra.
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cef0d8154d491c6513c3d189&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Pompe contour [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=9a54564636ec25f4f36560d9&elementType=PARTSTUDIO)
 Cette pièce sert à tenir la pompe et se tient à l'accroche du premier servo moteur.
