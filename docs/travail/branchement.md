@@ -76,6 +76,7 @@ Or le MOFSET était un nouvel élément électronique que nous n’avions jamais
 # Branchement du bouton d'arrêt d'urgence
 
  <img src="../images/Branchement_bouton_d_arret.jpeg"  width="400" height="400">
+ 
 Explications :
 
 Le branchement du bouton d’arrêt d’urgence a été plus assez simple car il suffisait juste de :
@@ -83,7 +84,7 @@ De connecter deux fils sur le bouton d’arrêt sachant qu’un fils serait bran
 
 # Difficultés rencontrées sur le câblage :
 
-Tout d’abord, la gestion des fils dans un projet comme le nôtre est un sujet des plus complexes. Une bonne gestion des fils reflète à la fois de la beauté de notre projet, mais aussi de son génie.  En outre, la mauvaise gestion peut réduire la mobilité du robot, et nuire au champ de vision de notre caméra. 
+Tout d’abord, la gestion des fils dans un projet comme le nôtre est un sujet des plus complexes. Une bonne gestion des fils reflète à la fois de la beauté de notre projet, mais aussi de son génie. En outre, la mauvaise gestion peut réduire la mobilité du robot, et nuire au champ de vision de notre caméra. 
 
 Il nous a donc fallut trouver un moyen de regrouper les fils ensemble, de nous assurer de la bonne longueur des fils et de l’utilisation des bons fils. 
 De ce fait, pour pallier ce problème, nous avons fait l’usage de scotch de plusieurs couleurs commençant par du blanc pour enfin terminer avec la couleur noire, nous avons également créer des pièces afin de contenir les fils (comme vous pouvez le voir ci-dessous), cependant cela n’a pas marché car ces dernières ont entravé le déplacement en se coinçant dans les coins de nos autres pièces et en se bloquant lorsqu’il n’y en avait pas assez.
@@ -91,6 +92,7 @@ De ce fait, pour pallier ce problème, nous avons fait l’usage de scotch de pl
 <img src="../images/cablage%20.jpeg"  width="400" height="400">
 
 Pour conclure, La gestion des fils est un sujet que nous aurions dû prendre en compte dès le début du projet plus précisément lors de la réalisation du plan de notre maquette.
+
 
 De plus nous avons rencontré un souci concernant l’alimentation des moteurs. En effet la carte Arduino ne possède qu’une seule sortie 5v or nous avions besoin de plus pour alimenter les moteurs. Nous avons examiné plusieurs solutions la première était de rajouter un amplificateur à notre montage mais on n’en possédait pas ce qui était adapter. Nous avons donc utilisé la soudure comme solution. Ce n’était pas la meilleure solution car nous avons perdu en intensité de courant mais elle fonctionne plutôt bien. 
 
