@@ -7,7 +7,7 @@ nav_order: 2
 <img src="../images/CNC%20Shield%20pinout.jpeg" width="600" height="600">
 <img src="../images/arduino-uno-pinout.webp" width="600" height="600">
 
-- Branchement des 3 moteurs pas à pas:
+# Branchement des 3 moteurs pas à pas:
 
 <img src="../images/Branchement_stepper.jpeg" width="400" height="400">
 
@@ -24,10 +24,12 @@ L'ordre des fils dépend du moteur, mais:
 * Si le moteur vibre sans tourner alors les fils sont mal placés,
 * Si le sens est inversé il faudra inverser les fils des moteurs,
 * L'utilisation des jumpers nous permettent de dupliquer le signal du moteur pas à pas situé sur l'axe X vers l'axe A.
-  
+
+### Difficultés rencontrées: 
+Commme problème nous avons eu au tout début du mal à affecter les bons axes à nos 3 moteurs pas à pas. 
 
 
- - Branchement des interrupteurs fin course 
+# Branchement des interrupteurs fin course 
 
 <img src="../images/Branchement_des%20interrupteurs_fin_course.jpeg" width="400" height="400">
 
@@ -35,30 +37,43 @@ Un interrupteur est constitué de trois fils de couleurs distinctes : vert, roug
 
 L’interrupteur dédié à l’axe X est connecté à la broche X+ ainsi qu’à la masse (GND). De même, l’interrupteur positionné sur l’axe Y est relié à la broche Y+ et à la masse (GND).
 
-Il est important de noter que seuls les fils rouge et noir sont utilisés pour le branchement : le fil rouge est connecté à la broche (X+ ou Y+) tandis que le fil noir est relié à la masse (GND). Le fil vert n’est donc pas utilisé dans cette configuration.
+Il est important de noter que seuls les fils rouge et noir sont utilisés pour le branchement : le fil rouge est connecté à la broche (X+ ou Y+) tandis que le fil noir est relié à la masse (GND). Le fil vert n’est donc pas utilisé dans cette configuration. 
 
 
-  - Branchement des servomoteurs :
+### Difficultés rencontrées:
+La seule difficulté rencontrée concernait l’attribution des ports aux interrupteurs fins de course. Ce problème a toutefois été résolu très rapidement.  
 
-src="../images/Branchement_des_servomoteurs.jpeg" width="400" height="400"><img
+ #  Branchement des servomoteurs :
+
+<img src="../images/Branchement_des_servomoteurs.jpeg" width="400" height="400">
 
 Explications:
 
 Chaque servomoteur possède 3 fils dont :
-* La couleur jaune est reliée sur une pin de la carte Arduino
-* La couleur marron est reliée au GND
-* La couleur rouge est reliée au Vcc
+* La couleur jaune est reliée sur une pin de la carte Arduino,
+* La couleur marron est reliée au GND,
+* La couleur rouge est reliée au Vcc.
+  
+### Diffucultés rencontrées:
+Au tout début, nous ne savions pas où devait être connecté chaque fils de nos servomoteurs mais grâce à une bonne documentation nous avons trouvé la solution en un temps court. 
 
-
-  - Branchement de la pompe :
+# Branchement de la pompe :
     
   <img src="../images/Branchement_de_la_pompe.jpeg"  width="400" height="400">
   
   Explications:
   
-Au vu du fait que notre carte arduino délivre une tension de 5v et que la pompe a besoin de 12v pour son fonctionnement. Nous avons utilisé un **MOSFET** pour contrer ce problème. Comme vous pouvez le voir sur l'image ci-dessous.
+Au vu du fait que notre carte Arduino délivre une tension de 5v et que la pompe a besoin de 12v pour son fonctionnement. Nous avons utilisé un **MOSFET** pour contrer ce problème. Comme vous pouvez le voir sur l'image ci-dessous.
 
-  <img src="../images/Pompe_MOSFET.jpeg"  width="400" height="400">   
+  <img src="../images/Pompe_MOSFET.jpeg"  width="400" height="400">
   
 Nous avons premierement fait un branchement entre les 2 fils de la pompe vers le MOSFET sur le **MOTOR 1** et un second branchement entre le MOSFET et les fils de la valve sur le **MOTOR 2**.
 Les fils sortants du MOSFET (rouge et vert) sont respectivement branchés sur le VCC et une pin de la carte (SpnDlr).
+
+### Difficultées rencontrées :
+Le branchement de la pompe à été l’un des branchements les plus compliqués car vu que notre carte Arduino délivrait 5v et que nous avions besoin de 12v, nous avons dû faire appel à l’utilisation d’un MOSFET.
+Or le MOFSET était un nouvel élément électronique que nous n’avions jamais utilisé au paravent et de ce fait, nous avions pas comment faire bon usage de ce petit appareil.  A l’aide d’un bon document et des enseignants nous avons pu régler ce problème.  
+
+# Branchement du bouton d'arrêt d'urgence
+
+
