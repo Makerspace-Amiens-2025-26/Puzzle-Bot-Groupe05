@@ -21,7 +21,7 @@ Ce projet consiste en la conception d'une machine capable d'analyser, trier et a
 
 Inspiré des robots réalisés par [Mark Rober](https://www.youtube.com/watch?v=Sqr-PdVYhY4) et [Stuff Made Here](https://www.youtube.com/watch?v=WsPHBD5NsS0), ce projet vise à la création d'un robot autonome qui a pour but (comme son nom l'indique) la résolution de puzzle. 
 
-Il fait partie de notre formation d'ingénieur en énergie et numérique à Unilasalle Amiens. Cependant il est accessible à n'importe qui de par son côté ludique.
+Il fait partie de notre formation d'ingénieur en énergie et numérique à Unilasalle Amiens. Cependant il est accessible à n'importe qui de par son côté ludique du moment que vous avez le matériel et la patience de le réaliser.
 
 
 ## Poster
