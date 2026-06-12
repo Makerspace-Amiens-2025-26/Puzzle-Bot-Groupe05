@@ -89,6 +89,7 @@ Tout d’abord, la gestion des fils dans un projet comme le notre est un sujet d
 Car il faut en même temps trouver un moyen de regrouper les fils ensemble, s’assurer de la bonne longueur des fils, l’utilisation des bons fils et bien d’autres. 
 De ce fait, pour pallier ce problème, nous avons fait usage du scotch de toutes les couleurs commençant par du blanc pour enfin terminer avec la couleur noire, nous avons également créer des pièces comme vous pouvez le voir ci-dessous, mais cela n’a pas marcher.
 
+<img src="../images/cablage%20.jpeg"  width="400" height="400">
 
 Pour conclure, La gestion des fils est un sujet que l’on doit prendre en compte dès le début du projet plus précisément sur lors de la réalisation du plan de notre maquette. 
 
