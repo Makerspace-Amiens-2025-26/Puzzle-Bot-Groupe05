@@ -69,7 +69,7 @@ Nous l'avons mis à la fin des axes X et Y afin de pouvoir informer la carte Ard
 
 ## * FS5103B (Servo Moteur) * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=f9e719aceeb4bdfba4976f38&elementType=PARTSTUDIO)
 
-Cette pièce est la représentation 3D du servomoteur.
+Cette pièce est la représentation 3D du servomoteur. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=f9e719aceeb4bdfba4976f38&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
@@ -86,23 +86,15 @@ Cette pièce est la seconde du système de rotation et du déplacement vertical 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## * 17HE12-1204S (Moteur pas à pas) * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=52c24c6401d240981a6eb543&elementType=PARTSTUDIO)
-Voici la représentation 3D du moteur pas à pas.
+Voici la représentation 3D du moteur pas à pas. Nous utilisons trois de ces moteurs (deux pour l'axe X et un pour l'axe Y). Nous nous servons de la pièce suivante afin de les fixer dans une position verticale ce qui nous permet de fixer les courroies. 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=52c24c6401d240981a6eb543&elementType=PARTSTUDIO" frameborder="0"></iframe>
-
-## * Electrovanne * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO)
-Cette pièce est la représentation 3D de l'électrovanne.
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO" frameborder="0"></iframe>
-
-## * Pompe * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO)
-Cette pièce est la représentation 3D de la pompe.
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Socle moteur [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=0e61d7d3f7938171c126d214&elementType=PARTSTUDIO)
 Cette pièce représente le support permettant de maintenir les moteurs pas à pas en position vertical. 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=0e61d7d3f7938171c126d214&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Socle du moteur droite et du bouton fin de course [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=327028c9845a7df20242fab7&elementType=PARTSTUDIO)
-Cette pièce sert de support en meme temps au moteau pas à pas de l'axe X situé à droite et de bouton fin de course de l'axe X.
+Cette pièce sert de support en meme temps au moteur pas à pas de l'axe X situé à droite et de bouton fin de course de l'axe X.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=327028c9845a7df20242fab7&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
@@ -113,6 +105,14 @@ Cette pièce sert de support en meme temps au moteau pas à pas de l'axe Y situ�
 ## Socle sans moteur du haut [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=784c1e809a883deec0924697&elementType=PARTSTUDIO)
 Cette pièce sert à tenir l'interrupteur de fin de course pour l'axe du haut.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=784c1e809a883deec0924697&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
+## * Electrovanne * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO)
+Cette pièce est la représentation 3D de l'électrovanne.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
+## * Pompe * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO)
+Cette pièce est la représentation 3D de la pompe.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Coin de plateau A [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=98d008d38688f5ae01af0ce9&elementType=PARTSTUDIO)
 Cette pièce sert à lier deux bars, le plateau, les socles avec ou sans moteur et à mêttre la machine légerement en hauteur. Elle a aussi une jumelle.
