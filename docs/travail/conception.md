@@ -123,13 +123,15 @@ Cette pièce sert de support en meme temps au moteau pas à pas de l'axe Y situ�
 Cette pièce sert à tenir l'interrupteur de fin de course pour l'axe du haut.
 
 
-## Coin de plateau gauche [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=98d008d38688f5ae01af0ce9&elementType=PARTSTUDIO)
+## Coin de plateau A [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=98d008d38688f5ae01af0ce9&elementType=PARTSTUDIO)
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=98d008d38688f5ae01af0ce9&elementType=PARTSTUDIO" frameborder="0"></iframe>
+Cette pièce sert à lier deux bars, le plateau, les socles avec ou sans moteur et à mêttre la machine légerement en hauteur. Elle a aussi une jumelle.
 
-## Coin de plateau droite [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c1b485d41e2aa5a0e0be682&elementType=PARTSTUDIO)
+## Coin de plateau B [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c1b485d41e2aa5a0e0be682&elementType=PARTSTUDIO)
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c1b485d41e2aa5a0e0be682&elementType=PARTSTUDIO" frameborder="0"></iframe>
+Cette pièce sert à lier deux bars, le plateau, les socles avec ou sans moteur et à mêttre la machine légerement en hauteur. Elle a aussi une jumelle.
 
 ## Rehausseur moteur [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=2d863c5d7df2f9789d8c6ca9&elementType=PARTSTUDIO)
 
