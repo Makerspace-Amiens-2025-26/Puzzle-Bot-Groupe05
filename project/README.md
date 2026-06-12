@@ -1,4 +1,4 @@
-Afin de nous renseigner sur le fonctionnement des différentes pièces du projet, nous avons effectué de multiples recherches. Vous trouverez ci-aprés une liste non exaustive de certaines ressources que nous avons utilisées.
+Afin de nous renseigner sur le fonctionnement des différentes pièces du projet, nous avons effectué de multiples recherches. Vous trouverez ci-aprés une liste non exaustive de certaines ressources que nous avons utilisées. Certains liens important se trouvent directement dans la documentation et n'ont pas été reportés ici.
 
 # Les ressources du projet :
 
