@@ -141,7 +141,7 @@ Cette pièce sert à créer de la distance entre les roues et la pièce qui est 
 ## Connique [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a00178e46fa76f4ec13eb7a3&elementType=PARTSTUDIO)
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a00178e46fa76f4ec13eb7a3&elementType=PARTSTUDIO" frameborder="0"></iframe>
-Cette pièce sert à lier 
+Cette pièce sert à lier le PULLEY avec le socle sans moteur. 
 
 ## Pièce de puzzle [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=16b6b4f1f500bd3004ca2049&elementType=PARTSTUDIO)
 Cette pièce est la représentation 3D des piéces de Puzzle
