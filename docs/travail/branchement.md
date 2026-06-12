@@ -76,5 +76,19 @@ Or le MOFSET était un nouvel élément électronique que nous n’avions jamais
 
 # Branchement du bouton d'arrêt d'urgence
 
- <img src="../images/Bouuton%20d%20'%20arret.jpeg"  width="400" height="400">
+ <img src="../images/Branchement_bouton_d_arret.jpeg"  width="400" height="400">
+Explications :
+
+Le branchement du bouton d’arrêt d’urgence a été plus assez simple car il suffisait juste de :
+De connecter deux fils sur le bouton d’arrêt sachant qu’un fils serait brancher sur l’alimentation qui alimente la carte Arduino et l’autre sur l’alimentation externe
+
+# Difficultés rencontrées sur le câblage :
+
+Tout d’abord, la gestion des fils dans un projet comme le notre est un sujet des plus compliqués. Bien qu’une bonne gestion des fils reflète non seulement la beauté de notre projet, mais aussi le génie de notre projet mais la mauvaise gestion put réduire l’entière mobilité du robot, et nuire au champ de vision de notre caméra. 
+
+Car il faut en même temps trouver un moyen de regrouper les fils ensemble, s’assurer de la bonne longueur des fils, l’utilisation des bons fils et bien d’autres. 
+De ce fait, pour pallier ce problème, nous avons fait usage du scotch de toutes les couleurs commençant par du blanc pour enfin terminer avec la couleur noire, nous avons également créer des pièces comme vous pouvez le voir ci-dessous, mais cela n’a pas marcher.
+
+
+Pour conclure, La gestion des fils est un sujet que l’on doit prendre en compte dès le début du projet plus précisément sur lors de la réalisation du plan de notre maquette. 
 
