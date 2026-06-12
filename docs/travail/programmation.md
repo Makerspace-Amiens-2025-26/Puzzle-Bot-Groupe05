@@ -68,11 +68,11 @@ Cette fonction va se servir du système de coordonnées définit grâce à la fo
 
 ***
 
-Dans une seconde partie, nous avons intégré une caméra à notre projet, ayant pour but de détecter des marqueurs [Aruco](https://robotechnancy.github.io/Odometrie/OdometrieAbsolue/PresentationArUCO/). Cependant, il n'est pas facile de pouvoir analyser une image facilement avec Arduino. Nous avons donc pris la décision de complémenter notre projet avec l'utilisation d'un code python. Nous avons choisi ce langage car il posséde de multiple bibliothèques qui sont utiles pour le traitement d'image et même pour la détection desdits marqueurs. Parmis ces bibliothèques, nous utilisons notamment [OpenCV](https://www.pythoniaformation.com/blog/tutoriels-python-par-categories/apprendre-la-computer-vision/opencv-bases-partie1) qui comme anoncé précemment permet la capture et le traitement d'image à partir d'un code python (Vous pourrez trouvez des exemples d'utilisation dans la partie projet de notre repo GitHub). 
+Dans une seconde partie, nous avons intégré une caméra à notre projet, ayant pour but de détecter des marqueurs [Aruco](https://robotechnancy.github.io/Odometrie/OdometrieAbsolue/PresentationArUCO/). Cependant, il n'est pas facile de pouvoir analyser une image facilement avec Arduino. Nous avons donc pris la décision de complémenter notre projet avec l'utilisation d'un code python. Nous avons choisi ce langage car il possède de multiples bibliothèques qui sont utiles pour le traitement d'image et même pour la détection desdits marqueurs. Parmi ces bibliothèques, nous utilisons notamment [OpenCV](https://www.pythoniaformation.com/blog/tutoriels-python-par-categories/apprendre-la-computer-vision/opencv-bases-partie1) qui comme annoncé précédemment permet la capture et le traitement d'image à partir d'un code python (Vous pourrez trouver des exemples d'utilisation dans la partie projet de notre repo GitHub). 
 
 Exemple d'utilisation du code read_aruco.py:
 
-Image capturé:
+Image capturée:
 
 <img src="../images/Captured.PNG" width="400" height="400"></img>
 
@@ -92,4 +92,4 @@ Une fois l'image enregistré, nous lui appliquons un filtre (ici le filtre nuanc
 
 <img src="../images/Detect_markers.PNG" width="400" height="400"></img>
 
-Il ne reste plus qu'a détecter les marqueurs. Heureusement, OpenCV posséde une fonction qui réalise ce travail (la fonction detectMarkers). Il s'agit donc de dessiner les marqueurs sur l'image et de rajouter un point qui marque le centre de ces derniers. Vous pouvez voir le rendu dans l'image ci-dessus.
+Il ne reste plus qu'à détecter les marqueurs. Heureusement, OpenCV possède une fonction qui réalise ce travail (la fonction detectMarkers). Il s'agit donc de dessiner les marqueurs sur l'image et de rajouter un point qui marque le centre de ces derniers. Vous pouvez voir le rendu dans l'image ci-dessus.
