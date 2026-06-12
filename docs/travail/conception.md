@@ -165,32 +165,33 @@ Elle représente le câble management.
 
 ## EslabonBase [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=6655e7ed04f5160e4dea80c0&elementType=PARTSTUDIO)
 Elle permet de fixer les fils entre eux. 
-
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=6655e7ed04f5160e4dea80c0&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Socle moteur h [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cda63b0fc51e8ca969e49446&elementType=PARTSTUDIO)
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cda63b0fc51e8ca969e49446&elementType=PARTSTUDIO" frameborder="0"></iframe>
 Cette pièce sert à tenir le moteur sur l'axe du haut.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cda63b0fc51e8ca969e49446&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Tventouse [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=3ca0ff7f0864355504d30aea&elementType=PARTSTUDIO)
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=3ca0ff7f0864355504d30aea&elementType=PARTSTUDIO" frameborder="0"></iframe>
 Cette pièce sert à lier la pièce qui lie le tube ventouse avec la pièce qui coulisse sur l'axe du haut.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=3ca0ff7f0864355504d30aea&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
 
 ## Coin camera [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO)
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO" frameborder="0"></iframe>
 Cette pièce sert à lier les deux bars pour mêttre la camera en hauteur.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
 
 ## Arrêt [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO)
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO" frameborder="0"></iframe>
 Cette pièce sert à tenir le bouton d'arrêt d'urgence et est lier avec la bar qui ne coulisse pas comme la boite de la carte électronique.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Camera avant [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cef0d8154d491c6513c3d189&elementType=PARTSTUDIO)
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cef0d8154d491c6513c3d189&elementType=PARTSTUDIO" frameborder="0"></iframe>
 Cette pièce est lié à la bar pour tenir la camera en hauteur et tient la face avant de la camera.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cef0d8154d491c6513c3d189&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Pompe contour [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=9a54564636ec25f4f36560d9&elementType=PARTSTUDIO)
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=9a54564636ec25f4f36560d9&elementType=PARTSTUDIO" frameborder="0"></iframe>
 Cette pièce sert à tenir la pompe et ce tient à l'accroche du premier servo moteur.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=9a54564636ec25f4f36560d9&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Ventouse [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=0dc7f380b15cdbf8f560be33&elementType=PARTSTUDIO)
 Pièce qui lie le tube ainsi que la ventouse de la pompe au sol et qui lie aussi les deux servo moteurs.
