@@ -59,19 +59,29 @@ Cette pièce soutient la courroie utilisé lors du déplacement selon l'axe Y.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=332ebf19e6193d43163e5194&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## Bouton fin de course [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=6ec722234c85e171cb8b3708&elementType=PARTSTUDIO)
+## * Bouton fin de course * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=6ec722234c85e171cb8b3708&elementType=PARTSTUDIO)
 
 Voici une représention du model 3D du Bouton fin de course.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=6ec722234c85e171cb8b3708&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## FS5103B (Servo Moteur) [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=f9e719aceeb4bdfba4976f38&elementType=PARTSTUDIO)
+Nous l'avons mis à la fin des axes X et Y afin de pouvoir informer la carte Arduino quelle à atteint leur limite. Le principal problème lié à cette pièce et que le robot n'actionnait pas correctement la partie levier de l’interrupteur. Pour résoudre cela, vous avez pu remarquer, sur le modèle du support des roues, que nous avons rajouté un dépassement sur le côté afin de mieux appuyer le bouton.
+
+## * FS5103B (Servo Moteur) * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=f9e719aceeb4bdfba4976f38&elementType=PARTSTUDIO)
 
 Cette pièce est la représentation 3D du servomoteur.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=f9e719aceeb4bdfba4976f38&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## 17HE12-1204S (Moteur) [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=52c24c6401d240981a6eb543&elementType=PARTSTUDIO)
+## Support du Servo Moteur pour la Rotation [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO)
+ 
+
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
+## Accroche cerveau [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO)
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
+## 17HE12-1204S (Moteur pas à pas) [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=52c24c6401d240981a6eb543&elementType=PARTSTUDIO)
 
 Voici la représentation 3D du moteur pas à pas.
 
@@ -108,9 +118,7 @@ Cette pièce sert de support en meme temps au moteau pas à pas de l'axe Y situ�
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=784c1e809a883deec0924697&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## Couvercle Servo Rotation [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO)
 
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Coin de plateau gauche [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=98d008d38688f5ae01af0ce9&elementType=PARTSTUDIO)
 
@@ -153,8 +161,7 @@ Elle permet de fixer les fils entre eux.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=6655e7ed04f5160e4dea80c0&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## Accroche cerveau [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO)
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
 
 ## Socle moteur h [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cda63b0fc51e8ca969e49446&elementType=PARTSTUDIO)
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cda63b0fc51e8ca969e49446&elementType=PARTSTUDIO" frameborder="0"></iframe>
@@ -173,5 +180,8 @@ Elle permet de fixer les fils entre eux.
 
 ## Pompe contour [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=9a54564636ec25f4f36560d9&elementType=PARTSTUDIO)
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=9a54564636ec25f4f36560d9&elementType=PARTSTUDIO" frameborder="0"></iframe>
-## Ventouse [[lien]]()
-https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=0dc7f380b15cdbf8f560be33&elementType=PARTSTUDIO
+
+## Ventouse [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=0dc7f380b15cdbf8f560be33&elementType=PARTSTUDIO)
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=0dc7f380b15cdbf8f560be33&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
+
