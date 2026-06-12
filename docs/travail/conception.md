@@ -7,26 +7,29 @@ title: Conception et prototypage
 
 # Conception et prototypage
 
-Pour transformer nos concepts en une machine fonctionnelle, nous avons utilisé les équipements du plateau technique de l'école. Cette phase a permis de valider la structure mécanique et l'intégration des composants électroniques.
+Afin de construire une machine fonctionnelle, nous avons utilisé le plateau fourni par l'école auquel nous avons greffer nos propres pièces dans le but d'assurer les différents besoins du projet.
+Vous trouverez ci-après certains de nos modèles afin de vous donner un ordre d’idée de la manière dont nous avons aborder les problèmes. (Les pièces où il y a une * dans le titre nous ont été, soit fournis par notre université, soit trouvé en ligne donc non réalisé par nous)
 
-
-## MAKER-UNO+CNC-SHIELD-V3 carte arduino [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a75aa863af6a5e53865ed936&elementType=ASSEMBLY)
-
-Cette piéce est la représentation 3D de la carte Aduino.
+## * MAKER-UNO+CNC-SHIELD-V3 carte arduino * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a75aa863af6a5e53865ed936&elementType=ASSEMBLY)
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a75aa863af6a5e53865ed936&elementType=ASSEMBLY" frameborder="0"></iframe>
 
-## Couvercle Boite [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=930b01b0ae626701b32b1083&elementType=PARTSTUDIO)
-La fabrication de cette pièce a été réalisé plus d'une fois ceci à cause du nombre incalculable des fils contenus dans notre puzzle. Mais le resultat final est la pièce ci-dessous. 
-
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=930b01b0ae626701b32b1083&elementType=PARTSTUDIO" frameborder="0"></iframe>
+Cette pièce est la représentation 3D de la carte Aduino à laquelle a été adjointe celle du shield cnc.
+Le principal problème que nous avons rencontré a été de savoir où positionner cette dernière. Nous avons longtemps hésité entre la mettre sur le plateau ou sur le côté. Les pours de la première solution étant les contres de la seconde et inversement (i.e. Si la carte est sur le plateau, nous aurons moins de place pour manipuler les pièces mais les fils pour relier les composants n’auraient pas à être aussi long que la seconde solution). Nous avons finalement opté pour la seconde option car nous souhaitions laisser la plus grande surface possible afin de résoudre le puzzle et nous avons donc conçu la pièce suivante afin de contenir la carte sur le côté du plateau.
 
 ## Boite electronique [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=1cf6cea800fff4c9c036df72&elementType=PARTSTUDIO)
-Après une premiere impression de la pièce nous avons rencontré certains problèmes notamment: trop d'espace dans la boite après l'insertion de la carte Arduino, pas d'espace consacré au câble d'alimentation, ... 
+Nous avons donc réalisé cette pièce dans le but de contenir la carte. Cependant après nos premieres impressions de la pièce nous avons rencontré certains problèmes notamment: trop d'espace dans la boite après l'insertion de la carte Arduino, pas d'espace consacré au câble d'alimentation ou encore une fragilité trop importante due à la trop grande proximité entre le trou pour l'alimentation et le bord de la pièce.
 
 Pour palier tous ces problèmes nous avons réaliser cette pièce:
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=1cf6cea800fff4c9c036df72&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
+## Couvercle Boite [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=930b01b0ae626701b32b1083&elementType=PARTSTUDIO)
+En plus de la boite, nous avons conçu un couvercle afin d'empêcher l'introduction de corps étranger dans cette dernière et de maintenir les branchements entre eux. La fabrication de cette pièce a été réalisé plus d'une fois en raison du nombre incalculable de fils contenus dans notre puzzle. Mais le resultat final est la pièce ci-dessous. 
+
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=930b01b0ae626701b32b1083&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
+
 
 ## V-SLOT WHEEL [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c32ba0c614b3600b5b556bb&elementType=PARTSTUDIO)
 Pour le déplacement de notre robot nous avons utilisé la pièce ci-après.
