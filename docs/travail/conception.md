@@ -76,11 +76,13 @@ Cette pièce est la représentation 3D du servomoteur.
 Initialement, nous ne savions pas, à la fois le nombre ni la position de ces moteurs. Nous avons décidé d’en utiliser deux (l’un pour le déplacement vertical (aussi appelé l’axe Z) et l’autre afin de pouvoir effectuer une rotation de la pièce).  Cependant ces choix ont apporté leur lot de problème que nous vous exposerons par la suite.
 
 ## Support du Servo Moteur pour la Rotation [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO)
-Cette pièce lie les deux servo moteurs entre eux.
+
+Cette pièce permet de maintenir le servomoteur (qui sert à effectuer les rotations) en place. Elle vient s’insérer dans la pièce ci-dessous afin de réaliser un déplacement selon l’axe Z. Nous avons eu du mal à nous décider sur la manière de réaliser ledit mouvement. Nous avons envisagé d’utiliser un système à engrenage (mais nous n’avons pas réussi à concevoir une pièce fonctionnante efficacement), nous avons donc imaginé un système plus simple. Le second servomoteur va juste soulever l’ensemble et le redescendre une fois que nous le voulons. D’où la partie coulissante entre cette pièce et la suivante.
+
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Support du Servo Moteur pour le déplacement sur l'axe Z [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO)
-Cette pièce lie le premier servo moteur avec la pièce qui lie les deux servo moteurs.
+Cette pièce est la seconde du système de rotation et du déplacement vertical présenté précédemment.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## * 17HE12-1204S (Moteur pas à pas) * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=52c24c6401d240981a6eb543&elementType=PARTSTUDIO)
@@ -99,7 +101,7 @@ Cette pièce est la représentation 3D de la pompe.
 Cette pièce représente le support permettant de maintenir les moteurs pas à pas en position vertical. 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=0e61d7d3f7938171c126d214&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## Socle du moteur droite et du  bouton fin de course [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=327028c9845a7df20242fab7&elementType=PARTSTUDIO)
+## Socle du moteur droite et du bouton fin de course [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=327028c9845a7df20242fab7&elementType=PARTSTUDIO)
 Cette pièce sert de support en meme temps au moteau pas à pas de l'axe X situé à droite et de bouton fin de course de l'axe X.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=327028c9845a7df20242fab7&elementType=PARTSTUDIO" frameborder="0"></iframe>
@@ -156,8 +158,8 @@ Cette pièce sert à tenir le moteur sur l'axe du haut.
 Cette pièce sert à lier la pièce qui lie le tube ventouse avec la pièce qui coulisse sur l'axe du haut.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=3ca0ff7f0864355504d30aea&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## Coin camera [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO)
-Cette pièce sert à lier les deux bars pour mêttre la camera en hauteur.
+## Coin caméra [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO)
+Cette pièce sert à lier les deux barres pour mêttre la camera en hauteur.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Arrêt [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO)
@@ -165,7 +167,7 @@ Cette pièce sert à tenir le bouton d'arrêt d'urgence et est lier avec la bar 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Camera avant [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cef0d8154d491c6513c3d189&elementType=PARTSTUDIO)
-Cette pièce est lié à la bar pour tenir la camera en hauteur et tient la face avant de la camera.
+Cette pièce est lié à la barre pour tenir la caméra en hauteur et tient la face avant de la caméra.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cef0d8154d491c6513c3d189&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Pompe contour [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=9a54564636ec25f4f36560d9&elementType=PARTSTUDIO)
