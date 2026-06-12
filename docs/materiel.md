@@ -24,6 +24,11 @@ nav_order: 4
 - moteurs pas-à-pas ([lien](https://www.omc-stepperonline.com/fr/e-serie-nema-17-bipolaire-26ncm-36-82oz-in-1-2a-42x42x30mm-4-fils-avec-1m-de-cable-et-connecteur-17he12-1204s))
 
   <img src="./images/stepper.PNG"  width="400" height="400">
+
+- Caméra fit0892 ([lien](https://www.gotronic.fr/art-camera-720p-usb-fit0892-35136.htm?srsltid=AfmBOopG-vinDJs_dlOg6lS3RrfCbqUURILUeLkfxbliaS3h_6wAQgYY))
+
+  <img src="./images/camera.webp"  width="400" height="400">
+  
 - driver pour les moteurs pas-à-pas (A4988)
 
   <img src="./images/Driver.PNG"  width="400" height="400">
@@ -43,6 +48,10 @@ nav_order: 4
 - imprimantes 3d pour fabriquer des socles pour les autres matériaux
   
   <img src="./images/Imprimante_3D.jpeg"  width="400" height="400">
+
+- pièces de puzzles avec marqueurs ArUco
+
+  <img src="./images/piece.jpeg"  width="400" height="400">
 
 - courroies
   
