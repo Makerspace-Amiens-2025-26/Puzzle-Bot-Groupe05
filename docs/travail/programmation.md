@@ -66,6 +66,8 @@ Au début de nos tests dans la phase « Homing », nous avons été confrontés 
 
 Le deuxième problème, était celui du fait qu'il arrivait souvent que le robot, au lieu de se diriger vers l'interrupteur pour initialiser son origine, s'en éloigne. Cela venait directement de la configuration de notre bibliothèque AccelStepper : nous avions défini une vitesse positive dans setSpeed(), mais en raison de la manière spécifique dont nous avions câblé les bobines des moteurs sur le CNC Shield, cette valeur positive correspondait en réalité à un mouvement vers l'extérieur. Le moteur ne « savait » pas où se trouvait l'origine ; il se contentait d'appliquer bêtement une instruction de rotation qui, par notre erreur de montage, l'éloignait toujours plus du point de contact souhaité.
 
+Pour résoudre ces problèmes, revoir nos branchements ainsi que le code. Pour le sens de rotation, nous avons simplement inversé le signe de la valeur passée à la fonction setSpeed(homingspeed) dans notre programme Arduino, ce qui a forcé le moteur à tourner dans la direction correcte vers l'interrupteur. Ensuite, nous avons retravaillé la fonction XlimitIsPressed() en utilisant INPUT_PULLUP pour stabiliser le signal électrique, garantissant ainsi que l'Arduino lise un état logique sans interférences.
+
 Move To
 ---
 <img src="../images/Move_to.PNG" width="400" height="400"></img>
