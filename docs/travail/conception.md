@@ -190,6 +190,7 @@ Cette pièce est lié à la bar pour tenir la camera en hauteur et tient la face
 
 ## Pompe contour [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=9a54564636ec25f4f36560d9&elementType=PARTSTUDIO)
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=9a54564636ec25f4f36560d9&elementType=PARTSTUDIO" frameborder="0"></iframe>
+Cette pièce sert à tenir la pompe et ce tient à l'accroche du premier servo moteur.
 
 ## Ventouse [[lien]]
 Pièce qui lie le tube ainsi que la ventouse de la pompe au sol et qui lie aussi les deux servo moteurs.
