@@ -29,21 +29,33 @@ En plus de la boite, nous avons conçu un couvercle afin d'empêcher l'introduct
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=930b01b0ae626701b32b1083&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-
-
-## V-SLOT WHEEL [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c32ba0c614b3600b5b556bb&elementType=PARTSTUDIO)
+## * Roues * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c32ba0c614b3600b5b556bb&elementType=PARTSTUDIO)
 Pour le déplacement de notre robot nous avons utilisé la pièce ci-après.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c32ba0c614b3600b5b556bb&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## PULLEY-GT2-6MM coulisseur courroie [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=d23d42d7e7c52a9d8fe46ff6&elementType=PARTSTUDIO)
+Au début nous ne savions pas comment les monter. Puis nous avons décider de les mettre le long de notre plateau en triangle. Si nous les mettons en triangle et non pas en carré ou en ligne c’est parce que cette formation assure un certain équilibre et limite les frottements des roues. Il s’agissait donc de concevoir une pièce qui servirait de support.  Vous trouverez cette dernière dans la suite de ce document.
 
-Cette pièce réprensente la courroie aidant au déplacement de l'axe X. 
+## Support des roues avec liaison vers l'axe Y [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=65895120d690e6a90984c9cb&elementType=PARTSTUDIO)
+Cette pièce sert la liaison entre la courroie et l'axe Y et sert également comme support pour d'autres pièces du robot. 
+
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=65895120d690e6a90984c9cb&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
+Nous avons du la réimprimer à de nombreuses reprises car initialement elle était constitué de plusieurs sous-pièces générant ainsi des fragilités dans la structure. 
+
+## Support des roues avec liaison vers l'axe Y bis [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=e8961972e50e2fec1052e479&elementType=PARTSTUDIO)
+Cette pièce est le miroir de la pièce précédente et est utilisé de l’autre côté de l’axe Y du robot. 
+
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=e8961972e50e2fec1052e479&elementType=PARTSTUDIO" frameborder="0"></iframe>
+
+## * PULLEY-GT2-6MM coulisseur courroie axe X* [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=d23d42d7e7c52a9d8fe46ff6&elementType=PARTSTUDIO)
+
+Cette pièce soutient la courroie utilisé lors du déplacement selon l'axe X. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=d23d42d7e7c52a9d8fe46ff6&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## PINION-GT2-6MM coulisseur courroie 2 [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=332ebf19e6193d43163e5194&elementType=PARTSTUDIO)
+## * PINION-GT2-6MM coulisseur courroie axe Y * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=332ebf19e6193d43163e5194&elementType=PARTSTUDIO)
 
-Cette pièce réprensente la courroie aidant au déplacement de l'axe Y.
+Cette pièce soutient la courroie utilisé lors du déplacement selon l'axe Y. 
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=332ebf19e6193d43163e5194&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
@@ -81,20 +93,6 @@ Cette pièce représente le support permettant de maintenir les moteurs pas à p
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=0e61d7d3f7938171c126d214&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## Triple gauche [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=bebbc3f1ef20b15be9e1312a&elementType=PARTSTUDIO)
-Cette pièce est la liaison entre la courroie et l'axe Y et sert également comme support pour d'autres pièces du robot. 
-
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=bebbc3f1ef20b15be9e1312a&elementType=PARTSTUDIO" frameborder="0"></iframe>
-
-## Triple fin gauche [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=65895120d690e6a90984c9cb&elementType=PARTSTUDIO)
-Cette pièce est la liaison entre la courroie et l'axe Y et sert également comme support pour d'autres pièces du robot mais du côté gauche. 
-
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=65895120d690e6a90984c9cb&elementType=PARTSTUDIO" frameborder="0"></iframe>
-
-## Triple fin droite [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=e8961972e50e2fec1052e479&elementType=PARTSTUDIO)
-Cette pièce est la liaison entre la courroie et l'axe Y et sert également comme support pour d'autres pièces du robot mais du côté droit. 
-
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=e8961972e50e2fec1052e479&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Socle du moteur droite et du  bouton fin de course [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=327028c9845a7df20242fab7&elementType=PARTSTUDIO)
 Cette pièce sert de support en meme temps au moteau pas à pas de l'axe X situé à droite et de bouton fin de course de l'axe X.
