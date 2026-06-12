@@ -136,6 +136,7 @@ Cette pièce sert à lier deux bars, le plateau, les socles avec ou sans moteur 
 ## Rehausseur moteur [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=2d863c5d7df2f9789d8c6ca9&elementType=PARTSTUDIO)
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=2d863c5d7df2f9789d8c6ca9&elementType=PARTSTUDIO" frameborder="0"></iframe>
+Cette pièce sert à créer de la distance entre les roues et la pièce qui est lié avec la courroie pour ne pas créer de frottement avec la bar.
 
 ## Connique [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a00178e46fa76f4ec13eb7a3&elementType=PARTSTUDIO)
 
