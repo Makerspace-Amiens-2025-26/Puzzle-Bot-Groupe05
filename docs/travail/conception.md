@@ -75,37 +75,29 @@ Cette pièce est la représentation 3D du servomoteur.
 
 Initialement, nous ne savions pas, à la fois le nombre ni la position de ces moteurs. Nous avons décidé d’en utiliser deux (l’un pour le déplacement vertical (aussi appelé l’axe Z) et l’autre afin de pouvoir effectuer une rotation de la pièce).  Cependant ces choix ont apporté leur lot de problème que nous vous exposerons par la suite.
 
-## Support du Servo Moteur pour la Rotation [[lien]]
-(https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO)
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO" frameborder="0"></iframe>
+## Support du Servo Moteur pour la Rotation [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO)
 Cette pièce lie les deux servo moteurs entre eux.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Accroche cerveau [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO)
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO" frameborder="0"></iframe>
 Cette pièce lie le premier servo moteur avec la pièce qui lie les deux servo moteurs.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## 17HE12-1204S (Moteur pas à pas) [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=52c24c6401d240981a6eb543&elementType=PARTSTUDIO)
-
 Voici la représentation 3D du moteur pas à pas.
-
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=52c24c6401d240981a6eb543&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## EV (Essentiel pour Pompe) [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO)
-
 Cette pièce est la représentation 3D de l'électrovanne.
-
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## PUMP [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO)
 Cette pièce est la représentation 3D de la pompe.
-
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Socle moteur [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=0e61d7d3f7938171c126d214&elementType=PARTSTUDIO)
 Cette pièce représente le support permettant de maintenir les moteurs pas à pas en position vertical. 
-
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=0e61d7d3f7938171c126d214&elementType=PARTSTUDIO" frameborder="0"></iframe>
-
 
 ## Socle du moteur droite et du  bouton fin de course [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=327028c9845a7df20242fab7&elementType=PARTSTUDIO)
 Cette pièce sert de support en meme temps au moteau pas à pas de l'axe X situé à droite et de bouton fin de course de l'axe X.
@@ -114,34 +106,27 @@ Cette pièce sert de support en meme temps au moteau pas à pas de l'axe X situ�
 
 ## Socle sans moteur gauche [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=60c80b0b974dd16a709bb1b3&elementType=PARTSTUDIO)
 Cette pièce sert de support en meme temps au moteau pas à pas de l'axe Y situé à gauche et de bouton fin de course de l'axe Y.
-
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=60c80b0b974dd16a709bb1b3&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Socle sans moteur du haut [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=784c1e809a883deec0924697&elementType=PARTSTUDIO)
-
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=784c1e809a883deec0924697&elementType=PARTSTUDIO" frameborder="0"></iframe>
 Cette pièce sert à tenir l'interrupteur de fin de course pour l'axe du haut.
-
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=784c1e809a883deec0924697&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Coin de plateau A [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=98d008d38688f5ae01af0ce9&elementType=PARTSTUDIO)
-
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=98d008d38688f5ae01af0ce9&elementType=PARTSTUDIO" frameborder="0"></iframe>
 Cette pièce sert à lier deux bars, le plateau, les socles avec ou sans moteur et à mêttre la machine légerement en hauteur. Elle a aussi une jumelle.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=98d008d38688f5ae01af0ce9&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Coin de plateau B [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c1b485d41e2aa5a0e0be682&elementType=PARTSTUDIO)
-
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c1b485d41e2aa5a0e0be682&elementType=PARTSTUDIO" frameborder="0"></iframe>
 Cette pièce sert à lier deux bars, le plateau, les socles avec ou sans moteur et à mêttre la machine légerement en hauteur. Elle a aussi une jumelle.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7c1b485d41e2aa5a0e0be682&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Rehausseur moteur [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=2d863c5d7df2f9789d8c6ca9&elementType=PARTSTUDIO)
-
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=2d863c5d7df2f9789d8c6ca9&elementType=PARTSTUDIO" frameborder="0"></iframe>
 Cette pièce sert à créer de la distance entre les roues et la pièce qui est lié avec la courroie pour ne pas créer de frottement avec la bar.
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=2d863c5d7df2f9789d8c6ca9&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Connique [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a00178e46fa76f4ec13eb7a3&elementType=PARTSTUDIO)
-
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a00178e46fa76f4ec13eb7a3&elementType=PARTSTUDIO" frameborder="0"></iframe>
 Cette pièce sert à lier le PULLEY avec le socle sans moteur. 
+<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=a00178e46fa76f4ec13eb7a3&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Pièce de puzzle [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=16b6b4f1f500bd3004ca2049&elementType=PARTSTUDIO)
 Cette pièce est la représentation 3D des piéces de Puzzle
@@ -149,18 +134,14 @@ Cette pièce est la représentation 3D des piéces de Puzzle
 
 ## Camera arrière [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=422586ceb155409133a4f3c9&elementType=PARTSTUDIO)
 Elle représente couvercle de la caméra permettant de stabilisé la caméra. 
-
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=422586ceb155409133a4f3c9&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Camera base [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=3493bd0f12b7aaed7282e628&elementType=PARTSTUDIO)
 Elle représente le support de la caméra orienté vers le bas ayant pour vision d'ensemble le plateau, les pièces de puzzle. 
-
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=3493bd0f12b7aaed7282e628&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## Eslabon_cadena (Importé de "Printables") [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=71baf6f7c393927a6a3b1b47&elementType=PARTSTUDIO)
-
 Elle représente le câble management.
-
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=71baf6f7c393927a6a3b1b47&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
 ## EslabonBase [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=6655e7ed04f5160e4dea80c0&elementType=PARTSTUDIO)
@@ -175,11 +156,9 @@ Cette pièce sert à tenir le moteur sur l'axe du haut.
 Cette pièce sert à lier la pièce qui lie le tube ventouse avec la pièce qui coulisse sur l'axe du haut.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=3ca0ff7f0864355504d30aea&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-
 ## Coin camera [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO)
 Cette pièce sert à lier les deux bars pour mêttre la camera en hauteur.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=e82476d0700eaafb8162c46e&elementType=PARTSTUDIO" frameborder="0"></iframe>
-
 
 ## Arrêt [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO)
 Cette pièce sert à tenir le bouton d'arrêt d'urgence et est lier avec la bar qui ne coulisse pas comme la boite de la carte électronique.
@@ -196,5 +175,3 @@ Cette pièce sert à tenir la pompe et ce tient à l'accroche du premier servo m
 ## Ventouse [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=0dc7f380b15cdbf8f560be33&elementType=PARTSTUDIO)
 Pièce qui lie le tube ainsi que la ventouse de la pompe au sol et qui lie aussi les deux servo moteurs.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=0dc7f380b15cdbf8f560be33&elementType=PARTSTUDIO" frameborder="0"></iframe>
-
-
