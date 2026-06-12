@@ -33,8 +33,6 @@ Pour faire communiquer la carte Arduino avec les composants du Puzzle bot (Servo
 <img src="../images/CNC Shield pinout.jpeg" width="400" height="400"></img>
 
 Nous nous rendons donc compte que certaines broches sont réservées (par exemple la 8 pour le drive enable). Une fois que nous nous sommes rendu compte de cela, nous avons choisi arbitrairement selon nos besoins les numéros des broches que nous utilisons (par exemple la numéro 13 pour le moteur de la pompe).
-Lors du developpement de cette partie , nous avons eu un conflit d'accès au port série. Au début, nous ne comprenions pas pourquoi notre script Python refusait systématiquement de se lancer alors que l'Arduino était bien branché. Le problème venait du fait que, le port COM est une ressource verrouillée par le système d'exploitation.Une fois que  l'IDE Arduino avec son moniteur série s'approprie le port pour communiquer, aucun autre programme ne peut y accéder simultanément.
-Dès que nous lancions notre script, celui-ci essayait de forcer l'ouverture du port, ce qui provoquait une erreur.Pour pallier ce problème, nous avons fermer le moniteur série de l'IDE dès que nous avions fini de vérifier le fonctionnement de base du code Arduino. 
 
 Setup
 ---
@@ -42,6 +40,9 @@ Setup
 <img src="../images/Setup.PNG" width="400" height="400"></img>
 
 Cette partie du code sert à l'initialisation des composants. Elle est propre à Arduino et est exécutée une seule fois lors de la mise sous tension de la carte. Nous nous en servons notamment pour relier les numéros des broches que nous avons choisi avec des variables afin de pouvoir manipuler les composants avec le code. Cette fonction nous permet aussi d'appeler la fonction homing qui sera expliqué un petit peu plus bas (pour faire cours, elle permet de déterminer la position initiale des moteurs pas-à-pas).
+
+Lors du developpement de cette partie , nous avons eu un conflit d'accès au port série. Au début, nous ne comprenions pas pourquoi notre script Python refusait systématiquement de se lancer alors que l'Arduino était bien branché. Le problème venait du fait que, le port COM est une ressource verrouillée par le système d'exploitation. Une fois que  l'IDE Arduino avec son moniteur série s'approprie le port pour communiquer, aucun autre programme ne peut y accéder simultanément.Dès que nous lancions notre script, celui-ci essayait de forcer l'ouverture du port, ce qui provoquait une erreur.
+Pour pallier ce problème, nous avons fermer le moniteur série de l'IDE dès que nous avions fini de vérifier le fonctionnement de base du code Arduino. 
 
 Activation des Moteurs et Pompes 
 ---
