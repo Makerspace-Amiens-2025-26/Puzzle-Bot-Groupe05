@@ -168,10 +168,9 @@ Elle permet de fixer les fils entre eux.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=6655e7ed04f5160e4dea80c0&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-
-
 ## Socle moteur h [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cda63b0fc51e8ca969e49446&elementType=PARTSTUDIO)
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cda63b0fc51e8ca969e49446&elementType=PARTSTUDIO" frameborder="0"></iframe>
+Cette pièce sert à tenir le moteur sur l'axe du haut.
 
 ## Tventouse [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=3ca0ff7f0864355504d30aea&elementType=PARTSTUDIO)
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=3ca0ff7f0864355504d30aea&elementType=PARTSTUDIO" frameborder="0"></iframe>
