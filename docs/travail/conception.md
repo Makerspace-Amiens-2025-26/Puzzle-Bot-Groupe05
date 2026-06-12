@@ -182,6 +182,7 @@ Cette pièce sert à lier les deux bars pour mêttre la camera en hauteur.
 
 ## Arrêt [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO)
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=ca4c089eea1cc196b0704caa&elementType=PARTSTUDIO" frameborder="0"></iframe>
+Cette pièce sert à tenir le bouton d'arrêt d'urgence et est lier avec la bar qui ne coulisse pas comme la boite de la carte électronique.
 
 ## Camera avant [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cef0d8154d491c6513c3d189&elementType=PARTSTUDIO)
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=cef0d8154d491c6513c3d189&elementType=PARTSTUDIO" frameborder="0"></iframe>
