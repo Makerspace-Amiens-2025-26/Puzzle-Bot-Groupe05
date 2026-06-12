@@ -117,10 +117,10 @@ Cette pièce sert de support en meme temps au moteau pas à pas de l'axe Y situ�
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=60c80b0b974dd16a709bb1b3&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## Socle sans moteur h [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=784c1e809a883deec0924697&elementType=PARTSTUDIO)
+## Socle sans moteur du haut [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=784c1e809a883deec0924697&elementType=PARTSTUDIO)
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=784c1e809a883deec0924697&elementType=PARTSTUDIO" frameborder="0"></iframe>
-
+Cette pièce sert à tenir l'interrupteur de fin de course pour l'axe du haut.
 
 
 ## Coin de plateau gauche [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=98d008d38688f5ae01af0ce9&elementType=PARTSTUDIO)
