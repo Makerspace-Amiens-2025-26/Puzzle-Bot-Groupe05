@@ -73,6 +73,8 @@ Cette pièce est la représentation 3D du servomoteur.
 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=f9e719aceeb4bdfba4976f38&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
+Initialement, nous ne savions pas, à la fois le nombre ni la position de ces moteurs. Nous avons décidé d’en utiliser deux (l’un pour le déplacement vertical (aussi appelé l’axe Z) et l’autre afin de pouvoir effectuer une rotation de la pièce).  Cependant ces choix ont apporté leur lot de problème que nous vous exposerons par la suite.
+
 ## Support du Servo Moteur pour la Rotation [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO)
  
 
