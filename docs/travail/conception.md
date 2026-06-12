@@ -76,14 +76,13 @@ Cette pièce est la représentation 3D du servomoteur.
 Initialement, nous ne savions pas, à la fois le nombre ni la position de ces moteurs. Nous avons décidé d’en utiliser deux (l’un pour le déplacement vertical (aussi appelé l’axe Z) et l’autre afin de pouvoir effectuer une rotation de la pièce).  Cependant ces choix ont apporté leur lot de problème que nous vous exposerons par la suite.
 
 ## Support du Servo Moteur pour la Rotation [[lien]]
-Cette pièce lie les deux servo moteurs entre eux.
 (https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO)
- 
-
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO" frameborder="0"></iframe>
+Cette pièce lie les deux servo moteurs entre eux.
 
 ## Accroche cerveau [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO)
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO" frameborder="0"></iframe>
+Cette pièce lie le premier servo moteur avec la pièce qui lie les deux servo moteurs.
 
 ## 17HE12-1204S (Moteur pas à pas) [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=52c24c6401d240981a6eb543&elementType=PARTSTUDIO)
 
