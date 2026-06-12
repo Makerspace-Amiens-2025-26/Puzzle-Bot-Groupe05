@@ -79,19 +79,19 @@ Initialement, nous ne savions pas, à la fois le nombre ni la position de ces mo
 Cette pièce lie les deux servo moteurs entre eux.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=004ac84e7bd0c84f8c6a92e6&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## Accroche cerveau [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO)
+## Support du Servo Moteur pour le déplacement sur l'axe Z [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO)
 Cette pièce lie le premier servo moteur avec la pièce qui lie les deux servo moteurs.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=af8420804ba07d35b036b0c5&eid=fe782eed8e8d2410c0d7b98e&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## 17HE12-1204S (Moteur pas à pas) [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=52c24c6401d240981a6eb543&elementType=PARTSTUDIO)
+## * 17HE12-1204S (Moteur pas à pas) * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=52c24c6401d240981a6eb543&elementType=PARTSTUDIO)
 Voici la représentation 3D du moteur pas à pas.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=52c24c6401d240981a6eb543&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## EV (Essentiel pour Pompe) [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO)
+## * Electrovanne * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO)
 Cette pièce est la représentation 3D de l'électrovanne.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=7bff6fd2c6640f78d8da316c&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## PUMP [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO)
+## * Pompe * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO)
 Cette pièce est la représentation 3D de la pompe.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=ccc9467ea61eee236b1c92d8&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
@@ -140,11 +140,11 @@ Elle représente couvercle de la caméra permettant de stabilisé la caméra.
 Elle représente le support de la caméra orientée vers le bas ayant pour vision d'ensemble le plateau, les pièces de puzzle. 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=eee567b5fe93adee48d8bb34&eid=3493bd0f12b7aaed7282e628&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## Eslabon_cadena (Importé de "Printables") [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=71baf6f7c393927a6a3b1b47&elementType=PARTSTUDIO)
+## * Eslabon_cadena (Importé de "Printables") * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=71baf6f7c393927a6a3b1b47&elementType=PARTSTUDIO)
 Elle représente le câble management.
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=71baf6f7c393927a6a3b1b47&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
-## EslabonBase [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=6655e7ed04f5160e4dea80c0&elementType=PARTSTUDIO)
+## * EslabonBase * [[lien]](https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=6655e7ed04f5160e4dea80c0&elementType=PARTSTUDIO)
 Elle permet de fixer les fils entre eux. 
 <iframe height="600" width="100%" src="https://modelembedder.net/embed?did=1f8d508aa42a1f24d486347e&wvm=v&wvmid=0a6068266203f778bb4a0e6f&eid=6655e7ed04f5160e4dea80c0&elementType=PARTSTUDIO" frameborder="0"></iframe>
 
