@@ -28,7 +28,7 @@ Il fait partie de notre formation d'ingénieur en énergie et numérique à Unil
 
 ![Poster projet](images/Poster.png)
 
-## Vidéo
+## Vidéo (Cliquer sur l'image ci-dessous pour regarder la vidéo sur Youtube)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VXDOPCWeFCk/0.jpg)](https://www.youtube.com/watch?v=VXDOPCWeFCk)
 
