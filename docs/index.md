@@ -30,8 +30,7 @@ Il fait partie de notre formation d'ingénieur en énergie et numérique à Unil
 
 ## Vidéo
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=VXDOPCWeFCk">
-</iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VXDOPCWeFCk/0.jpg)](https://www.youtube.com/watch?v=VXDOPCWeFCk)
+
 
 ---
