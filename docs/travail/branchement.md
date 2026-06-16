@@ -43,7 +43,7 @@ Il est important de noter que seuls les fils rouge et noir sont utilisés pour l
 ### Difficultés rencontrées:
 La seule difficulté rencontrée concernait l’attribution des ports aux interrupteurs fins de course. Ce problème a toutefois été résolu très rapidement.  Car nous nous sommes rendu compte qu’il y avait des ports dédiés (cf. image du pin out Shield au début de ce document (la partie end stop)).
 
- #  Branchement des servomoteurs :
+ # Branchement des servomoteurs :
 
 <img src="../images/Branchement_des_servomoteurs.jpeg" width="400" height="400">
 
